@@ -20,4 +20,4 @@ def top50(logs):
     return Counter(hits).most_common(50)
 
 logs = glob.glob('logs/*.json') 
-json.dump(top50(logs), open('top50.json', 'w'), indent=4, separators=(',', ': '))
+json.dump(dict(top50(logs)), open('top50.json', 'w'), indent=4, separators=(',', ': '))
