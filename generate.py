@@ -1,6 +1,10 @@
 import networkx as nx
 import json
 
+def clean_label(g):
+    g = nx.relabel_nodes(g, { n :  n.split('/')[-2] for n in g })
+
+    return g
 
 def rule_of_thumb(mylist): 
     '''Compute rule of thumb on a list
@@ -23,6 +27,7 @@ def rule_of_thumb(mylist):
     return mylist[0]
 
 g = nx.read_gexf('covisits.gexf')
+g = clean_label(g)
 
 # data = { n : list(g[n]) for n in g }
 # json.dump(data, open('scores/all.json', 'w'), indent=4, separators=(',', ': '))   
@@ -43,3 +48,12 @@ for n in list(g):
     
     for n2 in edges:
         print("    " + n2 + " - "+ str(g[n][n2]['covisits']))
+
+    data = [
+            {
+                "id": n,
+                "recommendations": [ { "id": n2, "score": g[n][n2]['covisits'] } for n2 in edges ]
+            }
+        ]
+
+    json.dump(data, open('scores/'+n+".json", "w"), indent=4, separators=(',', ': '))
