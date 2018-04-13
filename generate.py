@@ -64,6 +64,8 @@ for n in tqdm(list(g)):
 
     # json.dump(data, open('scores/'+n+".json", "w"), indent=4, separators=(',', ': '))
 
+top50recos = []
+
 for n in tqdm(list(g.nbunch_iter( top50.keys() ))):
     print()
     print(n)
@@ -89,3 +91,7 @@ for n in tqdm(list(g.nbunch_iter( top50.keys() ))):
         ]
 
     json.dump(data, open('prod/'+mapping_slug_id(n)+".json", "w"), indent=4, separators=(',', ': '))
+
+    top50recos.append(data)
+
+json.dump(top50recos, open('prod/all.json', "w"), indent=4, separators=(',', ': '))
