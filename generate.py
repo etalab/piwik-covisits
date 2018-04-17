@@ -83,12 +83,10 @@ for n in tqdm(list(g.nbunch_iter( top50.keys() ))):
     for n2 in edges:
         print("    " + n2 + " - "+ str(g[n][n2]['covisits']))
 
-    data = [
-            {
-                "id": mapping_slug_id(n),
-                "recommendations": [ { "id": mapping_slug_id(n2), "score": g[n][n2]['covisits'] } for n2 in edges ]
-            }
-        ]
+    data = {
+        "id": mapping_slug_id(n),
+        "recommendations": [ { "id": mapping_slug_id(n2), "score": g[n][n2]['covisits'] } for n2 in edges ]
+    }
 
     json.dump(data, open('prod/'+mapping_slug_id(n)+".json", "w"), indent=4, separators=(',', ': '))
 
