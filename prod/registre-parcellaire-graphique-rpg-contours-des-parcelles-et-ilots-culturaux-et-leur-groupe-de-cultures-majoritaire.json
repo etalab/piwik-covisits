@@ -1,11 +1,9 @@
-[
-    {
-        "id": "registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire",
-        "recommendations": [
-            {
-                "id": "plan-cadastral-informatise-pci",
-                "score": 87
-            }
-        ]
-    }
-]
+{
+    "id": "registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire",
+    "recommendations": [
+        {
+            "id": "plan-cadastral-informatise-pci",
+            "score": 87
+        }
+    ]
+}

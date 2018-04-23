@@ -1,11 +1,9 @@
-[
-    {
-        "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
-        "recommendations": [
-            {
-                "id": "545b55e1c751df52de9b6045",
-                "score": 7
-            }
-        ]
-    }
-]
+{
+    "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
+    "recommendations": [
+        {
+            "id": "545b55e1c751df52de9b6045",
+            "score": 7
+        }
+    ]
+}

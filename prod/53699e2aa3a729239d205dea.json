@@ -1,15 +1,13 @@
-[
-    {
-        "id": "53699e2aa3a729239d205dea",
-        "recommendations": [
-            {
-                "id": "586a824588ee3835ec3f4e61",
-                "score": 82
-            },
-            {
-                "id": "53699d0ea3a729239d205b2e",
-                "score": 75
-            }
-        ]
-    }
-]
+{
+    "id": "53699e2aa3a729239d205dea",
+    "recommendations": [
+        {
+            "id": "586a824588ee3835ec3f4e61",
+            "score": 82
+        },
+        {
+            "id": "53699d0ea3a729239d205b2e",
+            "score": 75
+        }
+    ]
+}

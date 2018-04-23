@@ -1,11 +1,9 @@
-[
-    {
-        "id": "5489cda0c751df35a24120e7",
-        "recommendations": [
-            {
-                "id": "57b2c41ec751df400097bae5",
-                "score": 34
-            }
-        ]
-    }
-]
+{
+    "id": "5489cda0c751df35a24120e7",
+    "recommendations": [
+        {
+            "id": "57b2c41ec751df400097bae5",
+            "score": 34
+        }
+    ]
+}

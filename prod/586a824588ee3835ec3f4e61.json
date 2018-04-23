@@ -1,19 +1,17 @@
-[
-    {
-        "id": "586a824588ee3835ec3f4e61",
-        "recommendations": [
-            {
-                "id": "53699e2aa3a729239d205dea",
-                "score": 82
-            },
-            {
-                "id": "5530fbacc751df5ff937dddb",
-                "score": 74
-            },
-            {
-                "id": "545b55e1c751df52de9b6045",
-                "score": 73
-            }
-        ]
-    }
-]
+{
+    "id": "586a824588ee3835ec3f4e61",
+    "recommendations": [
+        {
+            "id": "53699e2aa3a729239d205dea",
+            "score": 82
+        },
+        {
+            "id": "5530fbacc751df5ff937dddb",
+            "score": 74
+        },
+        {
+            "id": "545b55e1c751df52de9b6045",
+            "score": 73
+        }
+    ]
+}

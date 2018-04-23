@@ -1,752 +1,652 @@
 [
-    [
-        {
-            "id": "58e53811c751df03df38f42d",
-            "recommendations": [
-                {
-                    "id": "53698f1aa3a729239d203653",
-                    "score": 682
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5862206588ee38254d3f4e5e",
-            "recommendations": [
-                {
-                    "id": "53699569a3a729239d2046eb",
-                    "score": 134
-                },
-                {
-                    "id": "53699fe4a3a729239d206227",
-                    "score": 110
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "582c8978c751df788ec0bb7e",
-            "recommendations": [
-                {
-                    "id": "59b0020ec751df07d5f13bcf",
-                    "score": 25
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "545b55e1c751df52de9b6045",
-            "recommendations": [
-                {
-                    "id": "586a824588ee3835ec3f4e61",
-                    "score": 73
-                },
-                {
-                    "id": "538071a9a3a7297e4d35d6ce",
-                    "score": 66
-                },
-                {
-                    "id": "53699580a3a729239d204738",
-                    "score": 64
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "59b0020ec751df07d5f13bcf",
-            "recommendations": [
-                {
-                    "id": "58e5924b88ee3802ca255566",
-                    "score": 587
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "58e5924b88ee3802ca255566",
-            "recommendations": [
-                {
-                    "id": "59b0020ec751df07d5f13bcf",
-                    "score": 587
-                },
-                {
-                    "id": "plan-cadastral-informatise-pci",
-                    "score": 540
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "plan-cadastral-informatise-pci",
-            "recommendations": [
-                {
-                    "id": "58e5924b88ee3802ca255566",
-                    "score": 540
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699d0ea3a729239d205b2e",
-            "recommendations": [
-                {
-                    "id": "53699233a3a729239d203e69",
-                    "score": 79
-                },
-                {
-                    "id": "53699e2aa3a729239d205dea",
-                    "score": 75
-                },
-                {
-                    "id": "53699d52a3a729239d205bdd",
-                    "score": 64
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699233a3a729239d203e69",
-            "recommendations": [
-                {
-                    "id": "53699d0ea3a729239d205b2e",
-                    "score": 79
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "570f655888ee3852094d8898",
-            "recommendations": [
-                {
-                    "id": "555b3c95c751df4633190c79",
-                    "score": 14
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "536991c5a3a729239d203d4b",
-            "recommendations": [
-                {
-                    "id": "5809e241c751df2646c562c5",
-                    "score": 29
-                },
-                {
-                    "id": "58c984b088ee386cdb1261f3",
-                    "score": 25
-                },
-                {
-                    "id": "548ab97ec751df0f384120e7",
-                    "score": 21
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699fe5a3a729239d206232",
-            "recommendations": [
-                {
-                    "id": "53699fe5a3a729239d206231",
-                    "score": 15
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53698f1aa3a729239d203653",
-            "recommendations": [
-                {
-                    "id": "58e53811c751df03df38f42d",
-                    "score": 682
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "54149eb5c751df1dc8fc95e3",
-            "recommendations": [
-                {
-                    "id": "56ebf05fc751df7756cc7140",
-                    "score": 3
-                },
-                {
-                    "id": "586a824588ee3835ec3f4e61",
-                    "score": 2
-                },
-                {
-                    "id": "55798a4ac751df3ae6e57269",
-                    "score": 2
-                },
-                {
-                    "id": "5369952aa3a729239d204648",
-                    "score": 2
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5369995ba3a729239d205221",
-            "recommendations": [
-                {
-                    "id": "536991b0a3a729239d203d13",
-                    "score": 26
-                },
-                {
-                    "id": "596ff4b9b595082d11c49694",
-                    "score": 21
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5943d4c188ee38742a95eb0d",
-            "recommendations": [
-                {
-                    "id": "5369a395a3a729239d206acc",
-                    "score": 66
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "59591ca4a3a7291dcf9c8150",
-            "recommendations": [
-                {
-                    "id": "5809e241c751df2646c562c5",
-                    "score": 50
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53698f4ca3a729239d2036df",
-            "recommendations": [
-                {
-                    "id": "58d49a4ba3a7293affeffb39",
-                    "score": 24
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5530fbacc751df5ff937dddb",
-            "recommendations": [
-                {
-                    "id": "59b0020ec751df07d5f13bcf",
-                    "score": 93
-                },
-                {
-                    "id": "plan-cadastral-informatise-pci",
-                    "score": 86
-                },
-                {
-                    "id": "586a824588ee3835ec3f4e61",
-                    "score": 74
-                },
-                {
-                    "id": "53699fe4a3a729239d206227",
-                    "score": 64
-                },
-                {
-                    "id": "555206efc751df7832190c7c",
-                    "score": 63
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "58da857388ee384902e505f5",
-            "recommendations": [
-                {
-                    "id": "5878ee78a3a7291484cac822",
-                    "score": 50
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
-            "recommendations": [
-                {
-                    "id": "545b55e1c751df52de9b6045",
-                    "score": 7
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "536c47bfa3a72933d8d1b3a6",
-            "recommendations": [
-                {
-                    "id": "53699934a3a729239d2051a1",
-                    "score": 33
-                },
-                {
-                    "id": "54b4e584c751df56c0ae2624",
-                    "score": 29
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5726ef67c751df48e1fcca0d",
-            "recommendations": [
-                {
-                    "id": "536998c8a3a729239d205051",
-                    "score": 36
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699569a3a729239d2046eb",
-            "recommendations": [
-                {
-                    "id": "5862206588ee38254d3f4e5e",
-                    "score": 134
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699580a3a729239d204738",
-            "recommendations": [
-                {
-                    "id": "plan-cadastral-informatise-pci",
-                    "score": 115
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5369965fa3a729239d204999",
-            "recommendations": [
-                {
-                    "id": "58da72bbc751df38734d8658",
-                    "score": 24
-                },
-                {
-                    "id": "5862206588ee38254d3f4e5e",
-                    "score": 20
-                },
-                {
-                    "id": "536998cba3a729239d20505e",
-                    "score": 20
-                },
-                {
-                    "id": "53699d0ea3a729239d205b2e",
-                    "score": 19
-                },
-                {
-                    "id": "5878ee8fa3a7291484cac837",
-                    "score": 19
-                },
-                {
-                    "id": "595c269da3a7296407d69b21",
-                    "score": 18
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "delimitation-parcellaire-des-aoc-viticoles-de-linao",
-            "recommendations": [
-                {
-                    "id": "53698ecba3a729239d203577",
-                    "score": 19
-                },
-                {
-                    "id": "59b0020ec751df07d5f13bcf",
-                    "score": 18
-                },
-                {
-                    "id": "plan-cadastral-informatise-pci",
-                    "score": 18
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "58c98b1888ee38770950152b",
-            "recommendations": [
-                {
-                    "id": "571f335288ee3815cba19f12",
-                    "score": 35
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "536991b0a3a729239d203d13",
-            "recommendations": [
-                {
-                    "id": "5369995ba3a729239d205221",
-                    "score": 26
-                },
-                {
-                    "id": "536995f5a3a729239d20487f",
-                    "score": 23
-                },
-                {
-                    "id": "55717121c751df588de5726c",
-                    "score": 21
-                },
-                {
-                    "id": "545b55e1c751df52de9b6045",
-                    "score": 19
-                },
-                {
-                    "id": "59b0020ec751df07d5f13bcf",
-                    "score": 19
-                },
-                {
-                    "id": "decoupage-des-departements-metropolitains-issu-d-openstreetmap",
-                    "score": 19
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5710b9f088ee383cf54d8898",
-            "recommendations": [
-                {
-                    "id": "54940289c751df3c1904805b",
-                    "score": 6
-                },
-                {
-                    "id": "53699569a3a729239d2046eb",
-                    "score": 5
-                },
-                {
-                    "id": "53699635a3a729239d204927",
-                    "score": 5
-                },
-                {
-                    "id": "5369923fa3a729239d203e97",
-                    "score": 5
-                },
-                {
-                    "id": "5369a228a3a729239d20678b",
-                    "score": 5
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire",
-            "recommendations": [
-                {
-                    "id": "plan-cadastral-informatise-pci",
-                    "score": 87
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "5489cda0c751df35a24120e7",
-            "recommendations": [
-                {
-                    "id": "57b2c41ec751df400097bae5",
-                    "score": 34
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699fe4a3a729239d206227",
-            "recommendations": [
-                {
-                    "id": "5862206588ee38254d3f4e5e",
-                    "score": 110
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699e2aa3a729239d205dea",
-            "recommendations": [
-                {
-                    "id": "586a824588ee3835ec3f4e61",
-                    "score": 82
-                },
-                {
-                    "id": "53699d0ea3a729239d205b2e",
-                    "score": 75
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "55f1abb788ee380a3ea46ee4",
-            "recommendations": [
-                {
-                    "id": "58802bd1a3a72974c1f0c89c",
-                    "score": 8
-                },
-                {
-                    "id": "58b0309ec751df69b17d516b",
-                    "score": 7
-                },
-                {
-                    "id": "55ae44de88ee38443d3ca28e",
-                    "score": 6
-                },
-                {
-                    "id": "584f20c2c751df382cc0bb7e",
-                    "score": 6
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "586a824588ee3835ec3f4e61",
-            "recommendations": [
-                {
-                    "id": "53699e2aa3a729239d205dea",
-                    "score": 82
-                },
-                {
-                    "id": "5530fbacc751df5ff937dddb",
-                    "score": 74
-                },
-                {
-                    "id": "545b55e1c751df52de9b6045",
-                    "score": 73
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53ca2be2a3a7294a1ddd7847",
-            "recommendations": [
-                {
-                    "id": "53cdfd2ba3a7292987895b2b",
-                    "score": 28
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "559c0341c751df4853390be6",
-            "recommendations": [
-                {
-                    "id": "5809e241c751df2646c562c5",
-                    "score": 126
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "536998fda3a729239d2050f8",
-            "recommendations": [
-                {
-                    "id": "5889d042a3a72974cbf0d5b8",
-                    "score": 98
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "538071a9a3a7297e4d35d6ce",
-            "recommendations": [
-                {
-                    "id": "545b55e1c751df52de9b6045",
-                    "score": 66
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53698e90a3a729239d2034d4",
-            "recommendations": [
-                {
-                    "id": "53698e90a3a729239d2034d3",
-                    "score": 375
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "559395f1c751df0f51a453b9",
-            "recommendations": [
-                {
-                    "id": "559390f9c751df0139a453ba",
-                    "score": 10
-                },
-                {
-                    "id": "5593976ec751df0139a453bb",
-                    "score": 8
-                },
-                {
-                    "id": "53699fe4a3a729239d206227",
-                    "score": 7
-                },
-                {
-                    "id": "5892a0cca3a72974c1f0de3d",
-                    "score": 7
-                },
-                {
-                    "id": "592d454188ee3802a9b970af",
-                    "score": 7
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "58481d2688ee384953c65bb4",
-            "recommendations": [
-                {
-                    "id": "58481d2388ee384953c65bb3",
-                    "score": 57
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "555b5673c751df4821190c78",
-            "recommendations": [
-                {
-                    "id": "555defefc751df4b6ec98e0f",
-                    "score": 14
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "547738bcc751df6b1372f5d6",
-            "recommendations": [
-                {
-                    "id": "53699949a3a729239d2051f1",
-                    "score": 20
-                },
-                {
-                    "id": "fichier-des-prenoms-edition-2017",
-                    "score": 18
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "57868f03a3a7295d371add42",
-            "recommendations": [
-                {
-                    "id": "5369a18ea3a729239d206628",
-                    "score": 18
-                },
-                {
-                    "id": "53699eb6a3a729239d205f44",
-                    "score": 17
-                },
-                {
-                    "id": "53699d0ea3a729239d205b2e",
-                    "score": 13
-                },
-                {
-                    "id": "57868f11a3a7295d371add4d",
-                    "score": 11
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53699027a3a729239d203920",
-            "recommendations": [
-                {
-                    "id": "5369a253a3a729239d2067fb",
-                    "score": 251
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "53834c53a3a72906c7ec5c4c",
-            "recommendations": [
-                {
-                    "id": "58e53811c751df03df38f42d",
-                    "score": 4
-                },
-                {
-                    "id": "53698f1aa3a729239d203653",
-                    "score": 4
-                },
-                {
-                    "id": "584ea0f188ee381549c65bb3",
-                    "score": 4
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "575ac81188ee380c3c640390",
-            "recommendations": [
-                {
-                    "id": "575acb9d88ee380c3c640391",
-                    "score": 38
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "id": "536991b2a3a729239d203d1a",
-            "recommendations": [
-                {
-                    "id": "536998c8a3a729239d205051",
-                    "score": 40
-                },
-                {
-                    "id": "53699333a3a729239d204119",
-                    "score": 39
-                }
-            ]
-        }
-    ]
+    {
+        "id": "58e53811c751df03df38f42d",
+        "recommendations": [
+            {
+                "id": "53698f1aa3a729239d203653",
+                "score": 682
+            }
+        ]
+    },
+    {
+        "id": "5862206588ee38254d3f4e5e",
+        "recommendations": [
+            {
+                "id": "53699569a3a729239d2046eb",
+                "score": 134
+            },
+            {
+                "id": "53699fe4a3a729239d206227",
+                "score": 110
+            }
+        ]
+    },
+    {
+        "id": "582c8978c751df788ec0bb7e",
+        "recommendations": [
+            {
+                "id": "59b0020ec751df07d5f13bcf",
+                "score": 25
+            }
+        ]
+    },
+    {
+        "id": "545b55e1c751df52de9b6045",
+        "recommendations": [
+            {
+                "id": "586a824588ee3835ec3f4e61",
+                "score": 73
+            },
+            {
+                "id": "538071a9a3a7297e4d35d6ce",
+                "score": 66
+            },
+            {
+                "id": "53699580a3a729239d204738",
+                "score": 64
+            }
+        ]
+    },
+    {
+        "id": "59b0020ec751df07d5f13bcf",
+        "recommendations": [
+            {
+                "id": "58e5924b88ee3802ca255566",
+                "score": 587
+            }
+        ]
+    },
+    {
+        "id": "58e5924b88ee3802ca255566",
+        "recommendations": [
+            {
+                "id": "59b0020ec751df07d5f13bcf",
+                "score": 587
+            },
+            {
+                "id": "plan-cadastral-informatise-pci",
+                "score": 540
+            }
+        ]
+    },
+    {
+        "id": "plan-cadastral-informatise-pci",
+        "recommendations": [
+            {
+                "id": "58e5924b88ee3802ca255566",
+                "score": 540
+            }
+        ]
+    },
+    {
+        "id": "53699d0ea3a729239d205b2e",
+        "recommendations": [
+            {
+                "id": "53699233a3a729239d203e69",
+                "score": 79
+            },
+            {
+                "id": "53699e2aa3a729239d205dea",
+                "score": 75
+            },
+            {
+                "id": "53699d52a3a729239d205bdd",
+                "score": 64
+            }
+        ]
+    },
+    {
+        "id": "53699233a3a729239d203e69",
+        "recommendations": [
+            {
+                "id": "53699d0ea3a729239d205b2e",
+                "score": 79
+            }
+        ]
+    },
+    {
+        "id": "570f655888ee3852094d8898",
+        "recommendations": [
+            {
+                "id": "555b3c95c751df4633190c79",
+                "score": 14
+            }
+        ]
+    },
+    {
+        "id": "536991c5a3a729239d203d4b",
+        "recommendations": [
+            {
+                "id": "5809e241c751df2646c562c5",
+                "score": 29
+            },
+            {
+                "id": "58c984b088ee386cdb1261f3",
+                "score": 25
+            },
+            {
+                "id": "548ab97ec751df0f384120e7",
+                "score": 21
+            }
+        ]
+    },
+    {
+        "id": "53699fe5a3a729239d206232",
+        "recommendations": [
+            {
+                "id": "53699fe5a3a729239d206231",
+                "score": 15
+            }
+        ]
+    },
+    {
+        "id": "53698f1aa3a729239d203653",
+        "recommendations": [
+            {
+                "id": "58e53811c751df03df38f42d",
+                "score": 682
+            }
+        ]
+    },
+    {
+        "id": "54149eb5c751df1dc8fc95e3",
+        "recommendations": [
+            {
+                "id": "56ebf05fc751df7756cc7140",
+                "score": 3
+            },
+            {
+                "id": "586a824588ee3835ec3f4e61",
+                "score": 2
+            },
+            {
+                "id": "55798a4ac751df3ae6e57269",
+                "score": 2
+            },
+            {
+                "id": "5369952aa3a729239d204648",
+                "score": 2
+            }
+        ]
+    },
+    {
+        "id": "5369995ba3a729239d205221",
+        "recommendations": [
+            {
+                "id": "536991b0a3a729239d203d13",
+                "score": 26
+            },
+            {
+                "id": "596ff4b9b595082d11c49694",
+                "score": 21
+            }
+        ]
+    },
+    {
+        "id": "5943d4c188ee38742a95eb0d",
+        "recommendations": [
+            {
+                "id": "5369a395a3a729239d206acc",
+                "score": 66
+            }
+        ]
+    },
+    {
+        "id": "59591ca4a3a7291dcf9c8150",
+        "recommendations": [
+            {
+                "id": "5809e241c751df2646c562c5",
+                "score": 50
+            }
+        ]
+    },
+    {
+        "id": "53698f4ca3a729239d2036df",
+        "recommendations": [
+            {
+                "id": "58d49a4ba3a7293affeffb39",
+                "score": 24
+            }
+        ]
+    },
+    {
+        "id": "5530fbacc751df5ff937dddb",
+        "recommendations": [
+            {
+                "id": "59b0020ec751df07d5f13bcf",
+                "score": 93
+            },
+            {
+                "id": "plan-cadastral-informatise-pci",
+                "score": 86
+            },
+            {
+                "id": "586a824588ee3835ec3f4e61",
+                "score": 74
+            },
+            {
+                "id": "53699fe4a3a729239d206227",
+                "score": 64
+            },
+            {
+                "id": "555206efc751df7832190c7c",
+                "score": 63
+            }
+        ]
+    },
+    {
+        "id": "58da857388ee384902e505f5",
+        "recommendations": [
+            {
+                "id": "5878ee78a3a7291484cac822",
+                "score": 50
+            }
+        ]
+    },
+    {
+        "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
+        "recommendations": [
+            {
+                "id": "545b55e1c751df52de9b6045",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "id": "536c47bfa3a72933d8d1b3a6",
+        "recommendations": [
+            {
+                "id": "53699934a3a729239d2051a1",
+                "score": 33
+            },
+            {
+                "id": "54b4e584c751df56c0ae2624",
+                "score": 29
+            }
+        ]
+    },
+    {
+        "id": "5726ef67c751df48e1fcca0d",
+        "recommendations": [
+            {
+                "id": "536998c8a3a729239d205051",
+                "score": 36
+            }
+        ]
+    },
+    {
+        "id": "53699569a3a729239d2046eb",
+        "recommendations": [
+            {
+                "id": "5862206588ee38254d3f4e5e",
+                "score": 134
+            }
+        ]
+    },
+    {
+        "id": "53699580a3a729239d204738",
+        "recommendations": [
+            {
+                "id": "plan-cadastral-informatise-pci",
+                "score": 115
+            }
+        ]
+    },
+    {
+        "id": "5369965fa3a729239d204999",
+        "recommendations": [
+            {
+                "id": "58da72bbc751df38734d8658",
+                "score": 24
+            },
+            {
+                "id": "5862206588ee38254d3f4e5e",
+                "score": 20
+            },
+            {
+                "id": "536998cba3a729239d20505e",
+                "score": 20
+            },
+            {
+                "id": "53699d0ea3a729239d205b2e",
+                "score": 19
+            },
+            {
+                "id": "5878ee8fa3a7291484cac837",
+                "score": 19
+            },
+            {
+                "id": "595c269da3a7296407d69b21",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "id": "delimitation-parcellaire-des-aoc-viticoles-de-linao",
+        "recommendations": [
+            {
+                "id": "53698ecba3a729239d203577",
+                "score": 19
+            },
+            {
+                "id": "59b0020ec751df07d5f13bcf",
+                "score": 18
+            },
+            {
+                "id": "plan-cadastral-informatise-pci",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "id": "58c98b1888ee38770950152b",
+        "recommendations": [
+            {
+                "id": "571f335288ee3815cba19f12",
+                "score": 35
+            }
+        ]
+    },
+    {
+        "id": "536991b0a3a729239d203d13",
+        "recommendations": [
+            {
+                "id": "5369995ba3a729239d205221",
+                "score": 26
+            },
+            {
+                "id": "536995f5a3a729239d20487f",
+                "score": 23
+            },
+            {
+                "id": "55717121c751df588de5726c",
+                "score": 21
+            },
+            {
+                "id": "545b55e1c751df52de9b6045",
+                "score": 19
+            },
+            {
+                "id": "59b0020ec751df07d5f13bcf",
+                "score": 19
+            },
+            {
+                "id": "decoupage-des-departements-metropolitains-issu-d-openstreetmap",
+                "score": 19
+            }
+        ]
+    },
+    {
+        "id": "5710b9f088ee383cf54d8898",
+        "recommendations": [
+            {
+                "id": "54940289c751df3c1904805b",
+                "score": 6
+            },
+            {
+                "id": "53699569a3a729239d2046eb",
+                "score": 5
+            },
+            {
+                "id": "53699635a3a729239d204927",
+                "score": 5
+            },
+            {
+                "id": "5369923fa3a729239d203e97",
+                "score": 5
+            },
+            {
+                "id": "5369a228a3a729239d20678b",
+                "score": 5
+            }
+        ]
+    },
+    {
+        "id": "registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire",
+        "recommendations": [
+            {
+                "id": "plan-cadastral-informatise-pci",
+                "score": 87
+            }
+        ]
+    },
+    {
+        "id": "5489cda0c751df35a24120e7",
+        "recommendations": [
+            {
+                "id": "57b2c41ec751df400097bae5",
+                "score": 34
+            }
+        ]
+    },
+    {
+        "id": "53699fe4a3a729239d206227",
+        "recommendations": [
+            {
+                "id": "5862206588ee38254d3f4e5e",
+                "score": 110
+            }
+        ]
+    },
+    {
+        "id": "53699e2aa3a729239d205dea",
+        "recommendations": [
+            {
+                "id": "586a824588ee3835ec3f4e61",
+                "score": 82
+            },
+            {
+                "id": "53699d0ea3a729239d205b2e",
+                "score": 75
+            }
+        ]
+    },
+    {
+        "id": "55f1abb788ee380a3ea46ee4",
+        "recommendations": [
+            {
+                "id": "58802bd1a3a72974c1f0c89c",
+                "score": 8
+            },
+            {
+                "id": "58b0309ec751df69b17d516b",
+                "score": 7
+            },
+            {
+                "id": "55ae44de88ee38443d3ca28e",
+                "score": 6
+            },
+            {
+                "id": "584f20c2c751df382cc0bb7e",
+                "score": 6
+            }
+        ]
+    },
+    {
+        "id": "586a824588ee3835ec3f4e61",
+        "recommendations": [
+            {
+                "id": "53699e2aa3a729239d205dea",
+                "score": 82
+            },
+            {
+                "id": "5530fbacc751df5ff937dddb",
+                "score": 74
+            },
+            {
+                "id": "545b55e1c751df52de9b6045",
+                "score": 73
+            }
+        ]
+    },
+    {
+        "id": "53ca2be2a3a7294a1ddd7847",
+        "recommendations": [
+            {
+                "id": "53cdfd2ba3a7292987895b2b",
+                "score": 28
+            }
+        ]
+    },
+    {
+        "id": "559c0341c751df4853390be6",
+        "recommendations": [
+            {
+                "id": "5809e241c751df2646c562c5",
+                "score": 126
+            }
+        ]
+    },
+    {
+        "id": "536998fda3a729239d2050f8",
+        "recommendations": [
+            {
+                "id": "5889d042a3a72974cbf0d5b8",
+                "score": 98
+            }
+        ]
+    },
+    {
+        "id": "538071a9a3a7297e4d35d6ce",
+        "recommendations": [
+            {
+                "id": "545b55e1c751df52de9b6045",
+                "score": 66
+            }
+        ]
+    },
+    {
+        "id": "53698e90a3a729239d2034d4",
+        "recommendations": [
+            {
+                "id": "53698e90a3a729239d2034d3",
+                "score": 375
+            }
+        ]
+    },
+    {
+        "id": "559395f1c751df0f51a453b9",
+        "recommendations": [
+            {
+                "id": "559390f9c751df0139a453ba",
+                "score": 10
+            },
+            {
+                "id": "5593976ec751df0139a453bb",
+                "score": 8
+            },
+            {
+                "id": "53699fe4a3a729239d206227",
+                "score": 7
+            },
+            {
+                "id": "5892a0cca3a72974c1f0de3d",
+                "score": 7
+            },
+            {
+                "id": "592d454188ee3802a9b970af",
+                "score": 7
+            }
+        ]
+    },
+    {
+        "id": "58481d2688ee384953c65bb4",
+        "recommendations": [
+            {
+                "id": "58481d2388ee384953c65bb3",
+                "score": 57
+            }
+        ]
+    },
+    {
+        "id": "555b5673c751df4821190c78",
+        "recommendations": [
+            {
+                "id": "555defefc751df4b6ec98e0f",
+                "score": 14
+            }
+        ]
+    },
+    {
+        "id": "547738bcc751df6b1372f5d6",
+        "recommendations": [
+            {
+                "id": "53699949a3a729239d2051f1",
+                "score": 20
+            },
+            {
+                "id": "fichier-des-prenoms-edition-2017",
+                "score": 18
+            }
+        ]
+    },
+    {
+        "id": "57868f03a3a7295d371add42",
+        "recommendations": [
+            {
+                "id": "5369a18ea3a729239d206628",
+                "score": 18
+            },
+            {
+                "id": "53699eb6a3a729239d205f44",
+                "score": 17
+            },
+            {
+                "id": "53699d0ea3a729239d205b2e",
+                "score": 13
+            },
+            {
+                "id": "57868f11a3a7295d371add4d",
+                "score": 11
+            }
+        ]
+    },
+    {
+        "id": "53699027a3a729239d203920",
+        "recommendations": [
+            {
+                "id": "5369a253a3a729239d2067fb",
+                "score": 251
+            }
+        ]
+    },
+    {
+        "id": "53834c53a3a72906c7ec5c4c",
+        "recommendations": [
+            {
+                "id": "58e53811c751df03df38f42d",
+                "score": 4
+            },
+            {
+                "id": "53698f1aa3a729239d203653",
+                "score": 4
+            },
+            {
+                "id": "584ea0f188ee381549c65bb3",
+                "score": 4
+            }
+        ]
+    },
+    {
+        "id": "575ac81188ee380c3c640390",
+        "recommendations": [
+            {
+                "id": "575acb9d88ee380c3c640391",
+                "score": 38
+            }
+        ]
+    },
+    {
+        "id": "536991b2a3a729239d203d1a",
+        "recommendations": [
+            {
+                "id": "536998c8a3a729239d205051",
+                "score": 40
+            },
+            {
+                "id": "53699333a3a729239d204119",
+                "score": 39
+            }
+        ]
+    }
 ]

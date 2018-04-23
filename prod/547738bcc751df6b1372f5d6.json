@@ -1,15 +1,13 @@
-[
-    {
-        "id": "547738bcc751df6b1372f5d6",
-        "recommendations": [
-            {
-                "id": "53699949a3a729239d2051f1",
-                "score": 20
-            },
-            {
-                "id": "fichier-des-prenoms-edition-2017",
-                "score": 18
-            }
-        ]
-    }
-]
+{
+    "id": "547738bcc751df6b1372f5d6",
+    "recommendations": [
+        {
+            "id": "53699949a3a729239d2051f1",
+            "score": 20
+        },
+        {
+            "id": "fichier-des-prenoms-edition-2017",
+            "score": 18
+        }
+    ]
+}

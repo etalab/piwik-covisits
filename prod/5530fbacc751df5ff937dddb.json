@@ -1,27 +1,25 @@
-[
-    {
-        "id": "5530fbacc751df5ff937dddb",
-        "recommendations": [
-            {
-                "id": "59b0020ec751df07d5f13bcf",
-                "score": 93
-            },
-            {
-                "id": "plan-cadastral-informatise-pci",
-                "score": 86
-            },
-            {
-                "id": "586a824588ee3835ec3f4e61",
-                "score": 74
-            },
-            {
-                "id": "53699fe4a3a729239d206227",
-                "score": 64
-            },
-            {
-                "id": "555206efc751df7832190c7c",
-                "score": 63
-            }
-        ]
-    }
-]
+{
+    "id": "5530fbacc751df5ff937dddb",
+    "recommendations": [
+        {
+            "id": "59b0020ec751df07d5f13bcf",
+            "score": 93
+        },
+        {
+            "id": "plan-cadastral-informatise-pci",
+            "score": 86
+        },
+        {
+            "id": "586a824588ee3835ec3f4e61",
+            "score": 74
+        },
+        {
+            "id": "53699fe4a3a729239d206227",
+            "score": 64
+        },
+        {
+            "id": "555206efc751df7832190c7c",
+            "score": 63
+        }
+    ]
+}
