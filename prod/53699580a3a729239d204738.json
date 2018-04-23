@@ -1,11 +1,9 @@
-[
-    {
-        "id": "53699580a3a729239d204738",
-        "recommendations": [
-            {
-                "id": "plan-cadastral-informatise-pci",
-                "score": 115
-            }
-        ]
-    }
-]
+{
+    "id": "53699580a3a729239d204738",
+    "recommendations": [
+        {
+            "id": "plan-cadastral-informatise-pci",
+            "score": 115
+        }
+    ]
+}

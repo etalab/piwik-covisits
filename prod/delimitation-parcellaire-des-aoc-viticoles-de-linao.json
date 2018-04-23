@@ -1,19 +1,17 @@
-[
-    {
-        "id": "delimitation-parcellaire-des-aoc-viticoles-de-linao",
-        "recommendations": [
-            {
-                "id": "53698ecba3a729239d203577",
-                "score": 19
-            },
-            {
-                "id": "59b0020ec751df07d5f13bcf",
-                "score": 18
-            },
-            {
-                "id": "plan-cadastral-informatise-pci",
-                "score": 18
-            }
-        ]
-    }
-]
+{
+    "id": "delimitation-parcellaire-des-aoc-viticoles-de-linao",
+    "recommendations": [
+        {
+            "id": "53698ecba3a729239d203577",
+            "score": 19
+        },
+        {
+            "id": "59b0020ec751df07d5f13bcf",
+            "score": 18
+        },
+        {
+            "id": "plan-cadastral-informatise-pci",
+            "score": 18
+        }
+    ]
+}
