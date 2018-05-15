@@ -1,3 +1,4 @@
+---
 version: 2
 jobs:
   build:
@@ -46,7 +47,6 @@ jobs:
           command: |
             . venv/bin/activate
             echo "TODO COMMIT and PUSH prod/all.json"
-
 workflows:
   version: 2
     nightly:
