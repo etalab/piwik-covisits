@@ -49,9 +49,9 @@ jobs:
             echo "TODO COMMIT and PUSH prod/all.json"
 workflows:
   version: 2
-    nightly:
-      triggers:
-        - schedule:
-          cron: "23 0 * * *"
-      jobs:
-        - build
+  nightly:
+    triggers:
+      - schedule:
+        cron: "23 0 * * *"
+    jobs:
+      - build
