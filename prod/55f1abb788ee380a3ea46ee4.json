@@ -2,20 +2,20 @@
     "id": "55f1abb788ee380a3ea46ee4",
     "recommendations": [
         {
-            "id": "58802bd1a3a72974c1f0c89c",
-            "score": 8
-        },
-        {
             "id": "58b0309ec751df69b17d516b",
-            "score": 7
+            "score": 11
         },
         {
             "id": "55ae44de88ee38443d3ca28e",
-            "score": 6
+            "score": 9
+        },
+        {
+            "id": "58802bd1a3a72974c1f0c89c",
+            "score": 9
         },
         {
             "id": "584f20c2c751df382cc0bb7e",
-            "score": 6
+            "score": 8
         }
     ]
 }

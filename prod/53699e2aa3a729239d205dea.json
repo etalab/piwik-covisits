@@ -2,12 +2,36 @@
     "id": "53699e2aa3a729239d205dea",
     "recommendations": [
         {
-            "id": "586a824588ee3835ec3f4e61",
-            "score": 82
+            "id": "53699ebba3a729239d205f4f",
+            "score": 104
         },
         {
-            "id": "53699d0ea3a729239d205b2e",
-            "score": 75
+            "id": "536c46d6a3a72933d8d1b3a1",
+            "score": 95
+        },
+        {
+            "id": "53699509a3a729239d2045c4",
+            "score": 90
+        },
+        {
+            "id": "53699fe4a3a729239d206227",
+            "score": 90
+        },
+        {
+            "id": "53699569a3a729239d2046eb",
+            "score": 80
+        },
+        {
+            "id": "54de1e8fc751df388646738b",
+            "score": 79
+        },
+        {
+            "id": "donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports",
+            "score": 73
+        },
+        {
+            "id": "57343feb88ee3823b0d1b934",
+            "score": 71
         }
     ]
 }

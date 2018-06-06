@@ -3,8 +3,8 @@
         "id": "58e53811c751df03df38f42d",
         "recommendations": [
             {
-                "id": "53698f1aa3a729239d203653",
-                "score": 682
+                "id": "536995aba3a729239d2047ad",
+                "score": 336
             }
         ]
     },
@@ -12,12 +12,12 @@
         "id": "5862206588ee38254d3f4e5e",
         "recommendations": [
             {
-                "id": "53699569a3a729239d2046eb",
-                "score": 134
+                "id": "548acaf2c751df1eac4120e7",
+                "score": 53
             },
             {
-                "id": "53699fe4a3a729239d206227",
-                "score": 110
+                "id": "58c984b088ee386cdb1261f3",
+                "score": 50
             }
         ]
     },
@@ -25,8 +25,12 @@
         "id": "582c8978c751df788ec0bb7e",
         "recommendations": [
             {
-                "id": "59b0020ec751df07d5f13bcf",
-                "score": 25
+                "id": "585145edc751df272cc0bb7e",
+                "score": 21
+            },
+            {
+                "id": "58b97cbea3a7295fa30a2b44",
+                "score": 20
             }
         ]
     },
@@ -34,16 +38,32 @@
         "id": "545b55e1c751df52de9b6045",
         "recommendations": [
             {
-                "id": "586a824588ee3835ec3f4e61",
-                "score": 73
+                "id": "53699ebba3a729239d205f4f",
+                "score": 86
             },
             {
-                "id": "538071a9a3a7297e4d35d6ce",
-                "score": 66
+                "id": "53699509a3a729239d2045c4",
+                "score": 75
             },
             {
-                "id": "53699580a3a729239d204738",
-                "score": 64
+                "id": "donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports",
+                "score": 72
+            },
+            {
+                "id": "57343feb88ee3823b0d1b934",
+                "score": 72
+            },
+            {
+                "id": "536c46d6a3a72933d8d1b3a1",
+                "score": 71
+            },
+            {
+                "id": "54903bfac751df244d6accbc",
+                "score": 70
+            },
+            {
+                "id": "54de1e8fc751df388646738b",
+                "score": 68
             }
         ]
     },
@@ -51,8 +71,12 @@
         "id": "59b0020ec751df07d5f13bcf",
         "recommendations": [
             {
-                "id": "58e5924b88ee3802ca255566",
-                "score": 587
+                "id": "53699033a3a729239d20393e",
+                "score": 125
+            },
+            {
+                "id": "59d2c07888ee3814dbdaf501",
+                "score": 116
             }
         ]
     },
@@ -60,12 +84,8 @@
         "id": "58e5924b88ee3802ca255566",
         "recommendations": [
             {
-                "id": "59b0020ec751df07d5f13bcf",
-                "score": 587
-            },
-            {
                 "id": "plan-cadastral-informatise-pci",
-                "score": 540
+                "score": 1032
             }
         ]
     },
@@ -74,7 +94,7 @@
         "recommendations": [
             {
                 "id": "58e5924b88ee3802ca255566",
-                "score": 540
+                "score": 1032
             }
         ]
     },
@@ -82,16 +102,8 @@
         "id": "53699d0ea3a729239d205b2e",
         "recommendations": [
             {
-                "id": "53699233a3a729239d203e69",
-                "score": 79
-            },
-            {
-                "id": "53699e2aa3a729239d205dea",
-                "score": 75
-            },
-            {
-                "id": "53699d52a3a729239d205bdd",
-                "score": 64
+                "id": "53699ebba3a729239d205f4f",
+                "score": 107
             }
         ]
     },
@@ -99,8 +111,8 @@
         "id": "53699233a3a729239d203e69",
         "recommendations": [
             {
-                "id": "53699d0ea3a729239d205b2e",
-                "score": 79
+                "id": "54f63501c751df466f882844",
+                "score": 116
             }
         ]
     },
@@ -109,7 +121,7 @@
         "recommendations": [
             {
                 "id": "555b3c95c751df4633190c79",
-                "score": 14
+                "score": 23
             }
         ]
     },
@@ -118,15 +130,7 @@
         "recommendations": [
             {
                 "id": "5809e241c751df2646c562c5",
-                "score": 29
-            },
-            {
-                "id": "58c984b088ee386cdb1261f3",
-                "score": 25
-            },
-            {
-                "id": "548ab97ec751df0f384120e7",
-                "score": 21
+                "score": 62
             }
         ]
     },
@@ -135,7 +139,7 @@
         "recommendations": [
             {
                 "id": "53699fe5a3a729239d206231",
-                "score": 15
+                "score": 28
             }
         ]
     },
@@ -143,14 +147,26 @@
         "id": "53698f1aa3a729239d203653",
         "recommendations": [
             {
-                "id": "58e53811c751df03df38f42d",
-                "score": 682
+                "id": "53ca2be2a3a7294a1ddd7847",
+                "score": 27
+            },
+            {
+                "id": "plan-cadastral-informatise-pci",
+                "score": 24
+            },
+            {
+                "id": "5862206588ee38254d3f4e5e",
+                "score": 23
             }
         ]
     },
     {
         "id": "54149eb5c751df1dc8fc95e3",
         "recommendations": [
+            {
+                "id": "545b55e1c751df52de9b6045",
+                "score": 3
+            },
             {
                 "id": "56ebf05fc751df7756cc7140",
                 "score": 3
@@ -166,6 +182,10 @@
             {
                 "id": "5369952aa3a729239d204648",
                 "score": 2
+            },
+            {
+                "id": "54149eb5c751df1dc8fc95e3",
+                "score": 2
             }
         ]
     },
@@ -173,12 +193,16 @@
         "id": "5369995ba3a729239d205221",
         "recommendations": [
             {
-                "id": "536991b0a3a729239d203d13",
-                "score": 26
+                "id": "596ff4b9b595082d11c49694",
+                "score": 36
             },
             {
-                "id": "596ff4b9b595082d11c49694",
-                "score": 21
+                "id": "555206efc751df7832190c7c",
+                "score": 31
+            },
+            {
+                "id": "559c0341c751df4853390be6",
+                "score": 26
             }
         ]
     },
@@ -187,7 +211,7 @@
         "recommendations": [
             {
                 "id": "5369a395a3a729239d206acc",
-                "score": 66
+                "score": 109
             }
         ]
     },
@@ -196,7 +220,7 @@
         "recommendations": [
             {
                 "id": "5809e241c751df2646c562c5",
-                "score": 50
+                "score": 100
             }
         ]
     },
@@ -205,7 +229,7 @@
         "recommendations": [
             {
                 "id": "58d49a4ba3a7293affeffb39",
-                "score": 24
+                "score": 34
             }
         ]
     },
@@ -213,24 +237,8 @@
         "id": "5530fbacc751df5ff937dddb",
         "recommendations": [
             {
-                "id": "59b0020ec751df07d5f13bcf",
-                "score": 93
-            },
-            {
-                "id": "plan-cadastral-informatise-pci",
-                "score": 86
-            },
-            {
                 "id": "586a824588ee3835ec3f4e61",
-                "score": 74
-            },
-            {
-                "id": "53699fe4a3a729239d206227",
-                "score": 64
-            },
-            {
-                "id": "555206efc751df7832190c7c",
-                "score": 63
+                "score": 130
             }
         ]
     },
@@ -239,7 +247,7 @@
         "recommendations": [
             {
                 "id": "5878ee78a3a7291484cac822",
-                "score": 50
+                "score": 104
             }
         ]
     },
@@ -247,7 +255,31 @@
         "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
         "recommendations": [
             {
+                "id": "586a824588ee3835ec3f4e61",
+                "score": 9
+            },
+            {
+                "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
+                "score": 9
+            },
+            {
                 "id": "545b55e1c751df52de9b6045",
+                "score": 8
+            },
+            {
+                "id": "53ba4c07a3a729219b7bead3",
+                "score": 7
+            },
+            {
+                "id": "554210a9c751df2666a7b26c",
+                "score": 7
+            },
+            {
+                "id": "54903bfac751df244d6accbc",
+                "score": 7
+            },
+            {
+                "id": "53699334a3a729239d204120",
                 "score": 7
             }
         ]
@@ -256,12 +288,8 @@
         "id": "536c47bfa3a72933d8d1b3a6",
         "recommendations": [
             {
-                "id": "53699934a3a729239d2051a1",
-                "score": 33
-            },
-            {
                 "id": "54b4e584c751df56c0ae2624",
-                "score": 29
+                "score": 56
             }
         ]
     },
@@ -270,7 +298,7 @@
         "recommendations": [
             {
                 "id": "536998c8a3a729239d205051",
-                "score": 36
+                "score": 57
             }
         ]
     },
@@ -278,8 +306,8 @@
         "id": "53699569a3a729239d2046eb",
         "recommendations": [
             {
-                "id": "5862206588ee38254d3f4e5e",
-                "score": 134
+                "id": "536998fda3a729239d2050f8",
+                "score": 115
             }
         ]
     },
@@ -288,7 +316,7 @@
         "recommendations": [
             {
                 "id": "plan-cadastral-informatise-pci",
-                "score": 115
+                "score": 191
             }
         ]
     },
@@ -297,27 +325,15 @@
         "recommendations": [
             {
                 "id": "58da72bbc751df38734d8658",
-                "score": 24
-            },
-            {
-                "id": "5862206588ee38254d3f4e5e",
-                "score": 20
+                "score": 53
             },
             {
                 "id": "536998cba3a729239d20505e",
-                "score": 20
+                "score": 42
             },
             {
-                "id": "53699d0ea3a729239d205b2e",
-                "score": 19
-            },
-            {
-                "id": "5878ee8fa3a7291484cac837",
-                "score": 19
-            },
-            {
-                "id": "595c269da3a7296407d69b21",
-                "score": 18
+                "id": "5862206588ee38254d3f4e5e",
+                "score": 35
             }
         ]
     },
@@ -326,15 +342,7 @@
         "recommendations": [
             {
                 "id": "53698ecba3a729239d203577",
-                "score": 19
-            },
-            {
-                "id": "59b0020ec751df07d5f13bcf",
-                "score": 18
-            },
-            {
-                "id": "plan-cadastral-informatise-pci",
-                "score": 18
+                "score": 30
             }
         ]
     },
@@ -343,7 +351,7 @@
         "recommendations": [
             {
                 "id": "571f335288ee3815cba19f12",
-                "score": 35
+                "score": 53
             }
         ]
     },
@@ -351,28 +359,8 @@
         "id": "536991b0a3a729239d203d13",
         "recommendations": [
             {
-                "id": "5369995ba3a729239d205221",
-                "score": 26
-            },
-            {
-                "id": "536995f5a3a729239d20487f",
-                "score": 23
-            },
-            {
                 "id": "55717121c751df588de5726c",
-                "score": 21
-            },
-            {
-                "id": "545b55e1c751df52de9b6045",
-                "score": 19
-            },
-            {
-                "id": "59b0020ec751df07d5f13bcf",
-                "score": 19
-            },
-            {
-                "id": "decoupage-des-departements-metropolitains-issu-d-openstreetmap",
-                "score": 19
+                "score": 49
             }
         ]
     },
@@ -380,24 +368,12 @@
         "id": "5710b9f088ee383cf54d8898",
         "recommendations": [
             {
-                "id": "54940289c751df3c1904805b",
-                "score": 6
+                "id": "53699037a3a729239d203949",
+                "score": 15
             },
             {
                 "id": "53699569a3a729239d2046eb",
-                "score": 5
-            },
-            {
-                "id": "53699635a3a729239d204927",
-                "score": 5
-            },
-            {
-                "id": "5369923fa3a729239d203e97",
-                "score": 5
-            },
-            {
-                "id": "5369a228a3a729239d20678b",
-                "score": 5
+                "score": 12
             }
         ]
     },
@@ -406,7 +382,7 @@
         "recommendations": [
             {
                 "id": "plan-cadastral-informatise-pci",
-                "score": 87
+                "score": 151
             }
         ]
     },
@@ -415,7 +391,7 @@
         "recommendations": [
             {
                 "id": "57b2c41ec751df400097bae5",
-                "score": 34
+                "score": 48
             }
         ]
     },
@@ -423,8 +399,12 @@
         "id": "53699fe4a3a729239d206227",
         "recommendations": [
             {
-                "id": "5862206588ee38254d3f4e5e",
-                "score": 110
+                "id": "5530fbacc751df5ff937dddb",
+                "score": 113
+            },
+            {
+                "id": "57343feb88ee3823b0d1b934",
+                "score": 104
             }
         ]
     },
@@ -432,12 +412,36 @@
         "id": "53699e2aa3a729239d205dea",
         "recommendations": [
             {
-                "id": "586a824588ee3835ec3f4e61",
-                "score": 82
+                "id": "53699ebba3a729239d205f4f",
+                "score": 104
             },
             {
-                "id": "53699d0ea3a729239d205b2e",
-                "score": 75
+                "id": "536c46d6a3a72933d8d1b3a1",
+                "score": 95
+            },
+            {
+                "id": "53699509a3a729239d2045c4",
+                "score": 90
+            },
+            {
+                "id": "53699fe4a3a729239d206227",
+                "score": 90
+            },
+            {
+                "id": "53699569a3a729239d2046eb",
+                "score": 80
+            },
+            {
+                "id": "54de1e8fc751df388646738b",
+                "score": 79
+            },
+            {
+                "id": "donnees-geocodees-issues-du-recensement-des-licences-et-clubs-aupres-des-federations-sportives-agreees-par-le-ministere-charge-des-sports",
+                "score": 73
+            },
+            {
+                "id": "57343feb88ee3823b0d1b934",
+                "score": 71
             }
         ]
     },
@@ -445,20 +449,20 @@
         "id": "55f1abb788ee380a3ea46ee4",
         "recommendations": [
             {
-                "id": "58802bd1a3a72974c1f0c89c",
-                "score": 8
-            },
-            {
                 "id": "58b0309ec751df69b17d516b",
-                "score": 7
+                "score": 11
             },
             {
                 "id": "55ae44de88ee38443d3ca28e",
-                "score": 6
+                "score": 9
+            },
+            {
+                "id": "58802bd1a3a72974c1f0c89c",
+                "score": 9
             },
             {
                 "id": "584f20c2c751df382cc0bb7e",
-                "score": 6
+                "score": 8
             }
         ]
     },
@@ -466,16 +470,8 @@
         "id": "586a824588ee3835ec3f4e61",
         "recommendations": [
             {
-                "id": "53699e2aa3a729239d205dea",
-                "score": 82
-            },
-            {
                 "id": "5530fbacc751df5ff937dddb",
-                "score": 74
-            },
-            {
-                "id": "545b55e1c751df52de9b6045",
-                "score": 73
+                "score": 130
             }
         ]
     },
@@ -484,7 +480,7 @@
         "recommendations": [
             {
                 "id": "53cdfd2ba3a7292987895b2b",
-                "score": 28
+                "score": 51
             }
         ]
     },
@@ -493,7 +489,7 @@
         "recommendations": [
             {
                 "id": "5809e241c751df2646c562c5",
-                "score": 126
+                "score": 241
             }
         ]
     },
@@ -501,8 +497,8 @@
         "id": "536998fda3a729239d2050f8",
         "recommendations": [
             {
-                "id": "5889d042a3a72974cbf0d5b8",
-                "score": 98
+                "id": "53699569a3a729239d2046eb",
+                "score": 115
             }
         ]
     },
@@ -510,8 +506,8 @@
         "id": "538071a9a3a7297e4d35d6ce",
         "recommendations": [
             {
-                "id": "545b55e1c751df52de9b6045",
-                "score": 66
+                "id": "53699233a3a729239d203e69",
+                "score": 47
             }
         ]
     },
@@ -520,7 +516,7 @@
         "recommendations": [
             {
                 "id": "53698e90a3a729239d2034d3",
-                "score": 375
+                "score": 602
             }
         ]
     },
@@ -528,24 +524,8 @@
         "id": "559395f1c751df0f51a453b9",
         "recommendations": [
             {
-                "id": "559390f9c751df0139a453ba",
-                "score": 10
-            },
-            {
                 "id": "5593976ec751df0139a453bb",
-                "score": 8
-            },
-            {
-                "id": "53699fe4a3a729239d206227",
-                "score": 7
-            },
-            {
-                "id": "5892a0cca3a72974c1f0de3d",
-                "score": 7
-            },
-            {
-                "id": "592d454188ee3802a9b970af",
-                "score": 7
+                "score": 15
             }
         ]
     },
@@ -553,8 +533,36 @@
         "id": "58481d2688ee384953c65bb4",
         "recommendations": [
             {
-                "id": "58481d2388ee384953c65bb3",
-                "score": 57
+                "id": "59a02c13c751df05192164a8",
+                "score": 14
+            },
+            {
+                "id": "5862206588ee38254d3f4e5e",
+                "score": 13
+            },
+            {
+                "id": "5369983ca3a729239d204edb",
+                "score": 11
+            },
+            {
+                "id": "582c8978c751df788ec0bb7e",
+                "score": 10
+            },
+            {
+                "id": "53699233a3a729239d203e69",
+                "score": 10
+            },
+            {
+                "id": "586dae5ea3a7290df6f4be88",
+                "score": 10
+            },
+            {
+                "id": "58481d24c751df76c5c0bb7f",
+                "score": 8
+            },
+            {
+                "id": "58481d2688ee384953c65bb4",
+                "score": 8
             }
         ]
     },
@@ -563,7 +571,7 @@
         "recommendations": [
             {
                 "id": "555defefc751df4b6ec98e0f",
-                "score": 14
+                "score": 30
             }
         ]
     },
@@ -571,12 +579,12 @@
         "id": "547738bcc751df6b1372f5d6",
         "recommendations": [
             {
-                "id": "53699949a3a729239d2051f1",
-                "score": 20
+                "id": "fichier-des-prenoms-edition-2017",
+                "score": 48
             },
             {
-                "id": "fichier-des-prenoms-edition-2017",
-                "score": 18
+                "id": "53699949a3a729239d2051f1",
+                "score": 39
             }
         ]
     },
@@ -585,19 +593,15 @@
         "recommendations": [
             {
                 "id": "5369a18ea3a729239d206628",
-                "score": 18
+                "score": 40
             },
             {
                 "id": "53699eb6a3a729239d205f44",
-                "score": 17
-            },
-            {
-                "id": "53699d0ea3a729239d205b2e",
-                "score": 13
+                "score": 37
             },
             {
                 "id": "57868f11a3a7295d371add4d",
-                "score": 11
+                "score": 30
             }
         ]
     },
@@ -606,7 +610,7 @@
         "recommendations": [
             {
                 "id": "5369a253a3a729239d2067fb",
-                "score": 251
+                "score": 484
             }
         ]
     },
@@ -614,16 +618,8 @@
         "id": "53834c53a3a72906c7ec5c4c",
         "recommendations": [
             {
-                "id": "58e53811c751df03df38f42d",
-                "score": 4
-            },
-            {
-                "id": "53698f1aa3a729239d203653",
-                "score": 4
-            },
-            {
                 "id": "584ea0f188ee381549c65bb3",
-                "score": 4
+                "score": 10
             }
         ]
     },
@@ -632,7 +628,7 @@
         "recommendations": [
             {
                 "id": "575acb9d88ee380c3c640391",
-                "score": 38
+                "score": 69
             }
         ]
     },
@@ -640,12 +636,8 @@
         "id": "536991b2a3a729239d203d1a",
         "recommendations": [
             {
-                "id": "536998c8a3a729239d205051",
-                "score": 40
-            },
-            {
                 "id": "53699333a3a729239d204119",
-                "score": 39
+                "score": 59
             }
         ]
     }

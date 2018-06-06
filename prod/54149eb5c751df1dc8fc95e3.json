@@ -2,6 +2,10 @@
     "id": "54149eb5c751df1dc8fc95e3",
     "recommendations": [
         {
+            "id": "545b55e1c751df52de9b6045",
+            "score": 3
+        },
+        {
             "id": "56ebf05fc751df7756cc7140",
             "score": 3
         },
@@ -15,6 +19,10 @@
         },
         {
             "id": "5369952aa3a729239d204648",
+            "score": 2
+        },
+        {
+            "id": "54149eb5c751df1dc8fc95e3",
             "score": 2
         }
     ]

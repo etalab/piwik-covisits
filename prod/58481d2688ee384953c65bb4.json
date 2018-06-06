@@ -2,8 +2,36 @@
     "id": "58481d2688ee384953c65bb4",
     "recommendations": [
         {
-            "id": "58481d2388ee384953c65bb3",
-            "score": 57
+            "id": "59a02c13c751df05192164a8",
+            "score": 14
+        },
+        {
+            "id": "5862206588ee38254d3f4e5e",
+            "score": 13
+        },
+        {
+            "id": "5369983ca3a729239d204edb",
+            "score": 11
+        },
+        {
+            "id": "582c8978c751df788ec0bb7e",
+            "score": 10
+        },
+        {
+            "id": "53699233a3a729239d203e69",
+            "score": 10
+        },
+        {
+            "id": "586dae5ea3a7290df6f4be88",
+            "score": 10
+        },
+        {
+            "id": "58481d24c751df76c5c0bb7f",
+            "score": 8
+        },
+        {
+            "id": "58481d2688ee384953c65bb4",
+            "score": 8
         }
     ]
 }

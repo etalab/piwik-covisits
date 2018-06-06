@@ -2,7 +2,31 @@
     "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
     "recommendations": [
         {
+            "id": "586a824588ee3835ec3f4e61",
+            "score": 9
+        },
+        {
+            "id": "table-de-composition-nutritionnelle-des-aliments-ciqual",
+            "score": 9
+        },
+        {
             "id": "545b55e1c751df52de9b6045",
+            "score": 8
+        },
+        {
+            "id": "53ba4c07a3a729219b7bead3",
+            "score": 7
+        },
+        {
+            "id": "554210a9c751df2666a7b26c",
+            "score": 7
+        },
+        {
+            "id": "54903bfac751df244d6accbc",
+            "score": 7
+        },
+        {
+            "id": "53699334a3a729239d204120",
             "score": 7
         }
     ]
