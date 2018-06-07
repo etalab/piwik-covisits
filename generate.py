@@ -3,6 +3,9 @@ from tqdm import tqdm
 
 import json
 
+def label(n):
+    return n.split('/')[-2] 
+
 def clean_label(g):
     g = nx.relabel_nodes(g, { n :  n.split('/')[-2] for n in g })
 
@@ -33,61 +36,58 @@ def rule_of_thumb(mylist):
 
     return mylist[0]
 
+def filter_covisits(n):
+    # print([ edge for edge in g[n] ])
+
+    edges = sorted(list(g[n]), key=lambda e: -g[n][e]['covisits'])
+    
+    # keep only top 10
+    edges = edges[:10]
+
+    # reduce with rule of thumb
+    edges = edges[:rule_of_thumb([ g[n][n2]['covisits'] for n2 in edges ])]
+    
+    #for n2 in edges:
+    #    print("    " + n2 + " - "+ str(g[n][n2]['covisits']))
+
+    return edges
+
 top50 = json.load(open('top50.json','r'))
 
 g = nx.read_gexf('covisits.gexf')
-g = clean_label(g)
+#g = clean_label(g)
 
-for n in tqdm(list(g)):
-    print()
-    print(n)
+n0 ='https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/' 
 
-    # print([ edge for edge in g[n] ])
+#print(filter_covisits(n0))
 
-    edges = sorted(g[n], key=lambda e: -g[n][e]['covisits'])
-    
-    # keep only top 10
-    edges = edges[:10]
-
-    # reduce with rule of thumb
-    edges = edges[:rule_of_thumb([ g[n][n2]['covisits'] for n2 in edges ])]
-    
-    for n2 in edges:
-        print("    " + n2 + " - "+ str(g[n][n2]['covisits']))
-
-    data = {
-        "id": n,
-        "recommendations": [ { "id": n2, "score": g[n][n2]['covisits'] } for n2 in edges ]
-    }
-
-    # json.dump(data, open('scores/'+n+".json", "w"), indent=4, separators=(',', ': '))
+# exit()
 
 top50recos = []
 
-for n in tqdm(list(g.nbunch_iter( top50.keys() ))):
+#for n in tqdm(list([n0, n0])):
+for n in tqdm(list(g.nbunch_iter( [ "https://www.data.gouv.fr/fr/datasets/"+l+"/" for l in top50.keys() ] ))):
+#for n in tqdm(list(g)):
     print()
     print(n)
 
-    # print([ edge for edge in g[n] ])
-
-    edges = sorted(g[n], key=lambda e: -g[n][e]['covisits'])
-    
-    # keep only top 10
-    edges = edges[:10]
-
-    # reduce with rule of thumb
-    edges = edges[:rule_of_thumb([ g[n][n2]['covisits'] for n2 in edges ])]
-    
-    for n2 in edges:
-        print("    " + n2 + " - "+ str(g[n][n2]['covisits']))
+    edges = filter_covisits(n)
 
     data = {
-        "id": mapping_slug_id(n),
-        "recommendations": [ { "id": mapping_slug_id(n2), "score": g[n][n2]['covisits'] } for n2 in edges ]
+        "slug": label(n),
+        "id": mapping_slug_id(label(n)),
+        "recommendations": [ { "slug": label(n2), "id": mapping_slug_id(label(n2)), "score": g[n][n2]['covisits'] } for n2 in edges ]
     }
 
-    json.dump(data, open('prod/'+mapping_slug_id(n)+".json", "w"), indent=4, separators=(',', ': '))
+    print(data)
 
+    try:
+        json.dump(data, open('scores/'+label(n)+".json", "w"), indent=4, separators=(',', ': '))
+    except:
+        print('ERROR')
+    
     top50recos.append(data)
 
 json.dump(top50recos, open('prod/all.json', "w"), indent=4, separators=(',', ': '))
+
+exit()
