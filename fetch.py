@@ -1,4 +1,4 @@
-import os 
+import os
 import json
 import requests
 
@@ -6,20 +6,22 @@ from datetime import datetime, timedelta
 
 import pandas as pd
 
+ID_SITE = 109
+
 
 def fetch_day(day_string):
     data = []
     filter_limit = 1000
     filter_offset = 0
-    
+
     n_result = -1
     while n_result:
-        url = 'http://stats.data.gouv.fr/?module=API&method=Live.getLastVisitsDetails&idSite=1&period=day&date={}&format=JSON&filter_offset={}&filter_limit={}'.format(day_string, filter_offset, filter_limit)
+        url = 'http://stats.data.gouv.fr/?module=API&method=Live.getLastVisitsDetails&idSite={}&period=day&date={}&format=JSON&filter_offset={}&filter_limit={}'.format(ID_SITE, day_string, filter_offset, filter_limit)
         r = requests.get(url)
-    
+
         assert r.status_code == 200
         assert r.encoding == 'utf-8'
-    
+
         n_result
         data_batch = r.json()
         data += data_batch

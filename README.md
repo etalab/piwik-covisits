@@ -1,5 +1,13 @@
 ```
 $ python fetch.py
+$ python aggregate.py
+$ python compute.py
+$ python top50.py
+$ python generate.py
+```
+
+```
+$ python fetch.py
 2018-03-12 : done
 2018-03-13 : done
 2018-03-14 : done
