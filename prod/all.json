@@ -64,7 +64,7 @@
     {
         "recommendations": [
             {
-                "score": 2966,
+                "score": 3235,
                 "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
             }
@@ -75,7 +75,7 @@
     {
         "recommendations": [
             {
-                "score": 7884,
+                "score": 10220,
                 "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
             }
@@ -86,34 +86,23 @@
     {
         "recommendations": [
             {
-                "score": 30,
-                "slug": "service-public-fr-guide-vos-droits-et-demarches-particuliers",
-                "id": "53699fe5a3a729239d206232"
+                "score": 1224,
+                "slug": "correspondance-code-insee-code-postal",
+                "id": "59591ca4a3a7291dcf9c8150"
             }
         ],
-        "slug": "attestation-de-deplacement-derogatoire-et-justificatif-de-deplacement-professionnel",
-        "id": "attestation-de-deplacement-derogatoire-et-justificatif-de-deplacement-professionnel"
+        "slug": "base-officielle-des-codes-postaux",
+        "id": "545b55e1c751df52de9b6045"
     },
     {
         "recommendations": [
             {
-                "score": 127,
-                "slug": "elections-municipales-2014-resultats-1er-tour",
-                "id": "5369939aa3a729239d20423c"
-            }
-        ],
-        "slug": "elections-municipales-2014-resultats-par-bureaux-de-vote",
-        "id": "56051ff788ee3865ae5b59ef"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 811,
+                "score": 1495,
                 "slug": "5c4ae55a634f4117716d5656",
                 "id": "5c4ae55a634f4117716d5656"
             },
             {
-                "score": 639,
+                "score": 1045,
                 "slug": "demandes-de-valeurs-foncieres-geolocalisees",
                 "id": "demandes-de-valeurs-foncieres-geolocalisees"
             }
@@ -124,20 +113,9 @@
     {
         "recommendations": [
             {
-                "score": 208,
-                "slug": "accidents-de-la-route",
-                "id": "53698e4ba3a729239d203415"
-            }
-        ],
-        "slug": "base-de-donnees-accidents-corporels-de-la-circulation",
-        "id": "53698f4ca3a729239d2036df"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 130,
-                "slug": "repertoire-national-des-associations-rna",
-                "id": "58e53811c751df03df38f42d"
+                "score": 189,
+                "slug": "repertoire-national-des-associations",
+                "id": "repertoire-national-des-associations"
             }
         ],
         "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
@@ -146,7 +124,7 @@
     {
         "recommendations": [
             {
-                "score": 91,
+                "score": 100,
                 "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
                 "id": "5862206588ee38254d3f4e5e"
             }
@@ -157,24 +135,14 @@
     {
         "recommendations": [
             {
-                "score": 17,
-                "slug": "base-permanente-des-equipements-1",
-                "id": "548acaf2c751df1eac4120e7"
-            },
-            {
-                "score": 15,
+                "score": 27,
                 "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
                 "id": "5862206588ee38254d3f4e5e"
             },
             {
-                "score": 12,
-                "slug": "listes-des-sites-et-services-web-en-gouv-fr",
-                "id": "listes-des-sites-et-services-web-en-gouv-fr"
-            },
-            {
-                "score": 11,
-                "slug": "enseignes-ouvertes-ou-fermees-pendant-le-covid-19",
-                "id": "enseignes-ouvertes-ou-fermees-pendant-le-covid-19"
+                "score": 24,
+                "slug": "base-permanente-des-equipements-1",
+                "id": "548acaf2c751df1eac4120e7"
             }
         ],
         "slug": "les-commerces-par-commune-ou-arrondissement-base-permanente-des-equipements-idf",
@@ -183,7 +151,7 @@
     {
         "recommendations": [
             {
-                "score": 102,
+                "score": 184,
                 "slug": "statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel",
                 "id": "statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel"
             }
@@ -194,29 +162,45 @@
     {
         "recommendations": [
             {
-                "score": 769,
-                "slug": "correspondance-code-insee-code-postal",
-                "id": "59591ca4a3a7291dcf9c8150"
+                "score": 192,
+                "slug": "les-elus-municipaux",
+                "id": "53699830a3a729239d204eb5"
             },
             {
-                "score": 561,
-                "slug": "correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises",
-                "id": "536991c5a3a729239d203d4b"
+                "score": 170,
+                "slug": "municipales-2020-resultats-2nd-tour",
+                "id": "municipales-2020-resultats-2nd-tour"
+            },
+            {
+                "score": 147,
+                "slug": "liste-des-maires",
+                "id": "53699924a3a729239d205175"
             }
         ],
-        "slug": "base-officielle-des-codes-postaux",
-        "id": "545b55e1c751df52de9b6045"
+        "slug": "repertoire-national-des-elus-1",
+        "id": "repertoire-national-des-elus-1"
     },
     {
         "recommendations": [
             {
-                "score": 187,
-                "slug": "associations-reconnues-d-utilite-publique",
-                "id": "53698f1aa3a729239d203653"
+                "score": 3066,
+                "slug": "indicateurs-de-suivi-de-lepidemie-de-covid-19",
+                "id": "indicateurs-de-suivi-de-lepidemie-de-covid-19"
             }
         ],
-        "slug": "repertoire-national-des-associations-rna",
-        "id": "58e53811c751df03df38f42d"
+        "slug": "donnees-de-la-carte-de-vigilance-covid-19",
+        "id": "donnees-de-la-carte-de-vigilance-covid-19"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 392,
+                "slug": "accidents-de-la-route",
+                "id": "53698e4ba3a729239d203415"
+            }
+        ],
+        "slug": "base-de-donnees-accidents-corporels-de-la-circulation",
+        "id": "53698f4ca3a729239d2036df"
     },
     {
         "recommendations": [
@@ -247,7 +231,7 @@
     {
         "recommendations": [
             {
-                "score": 199,
+                "score": 314,
                 "slug": "le-calendrier-scolaire",
                 "id": "54149eb5c751df1dc8fc95e3"
             }
@@ -258,13 +242,13 @@
     {
         "recommendations": [
             {
-                "score": 243,
-                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
+                "score": 30,
+                "slug": "service-public-fr-guide-vos-droits-et-demarches-particuliers",
+                "id": "53699fe5a3a729239d206232"
             }
         ],
-        "slug": "donnees-des-ugences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
-        "id": "donnees-des-ugences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
+        "slug": "attestation-de-deplacement-derogatoire-et-justificatif-de-deplacement-professionnel",
+        "id": "attestation-de-deplacement-derogatoire-et-justificatif-de-deplacement-professionnel"
     },
     {
         "recommendations": [
@@ -276,212 +260,6 @@
         ],
         "slug": "donnees-relatives-a-lepidemie-du-covid-19",
         "id": "donnees-relatives-a-lepidemie-du-covid-19"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 477,
-                "slug": "listes-des-sites-gouv-fr",
-                "id": "542e7c2b88ee387d51138112"
-            }
-        ],
-        "slug": "listes-des-sites-et-services-web-en-gouv-fr",
-        "id": "listes-des-sites-et-services-web-en-gouv-fr"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 111,
-                "slug": "repertoire-operationnel-des-metiers-et-des-emplois-rome-version-3",
-                "id": "5878ee78a3a7291484cac822"
-            }
-        ],
-        "slug": "repertoire-operationnel-des-metiers-et-des-emplois-rome",
-        "id": "58da857388ee384902e505f5"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 124,
-                "slug": "population",
-                "id": "53699d0ea3a729239d205b2e"
-            }
-        ],
-        "slug": "fichier-des-personnes-decedees",
-        "id": "fichier-des-personnes-decedees"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 161,
-                "slug": "plan-cadastral-informatise",
-                "id": "plan-cadastral-informatise"
-            }
-        ],
-        "slug": "base-documentaire-dgfip",
-        "id": "base-documentaire-dgfip"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 44,
-                "slug": "icpe-installations-classees-pour-la-protection-de-lenvironnement-en-pays-de-la-loire",
-                "id": "57e229fac751df599f79df74"
-            }
-        ],
-        "slug": "base-des-installations-classees-icpe",
-        "id": "base-des-installations-classees-icpe"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 1031,
-                "slug": "cas-confirmes-dinfection-au-covid-19-par-region",
-                "id": "cas-confirmes-dinfection-au-covid-19-par-region"
-            },
-            {
-                "score": 771,
-                "slug": "chiffres-cles-concernant-lepidemie-de-covid19-en-france",
-                "id": "chiffres-cles-concernant-lepidemie-de-covid19-en-france"
-            }
-        ],
-        "slug": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne",
-        "id": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 90,
-                "slug": "open-food-facts-produits-alimentaires-ingredients-nutrition-labels",
-                "id": "open-food-facts-produits-alimentaires-ingredients-nutrition-labels"
-            }
-        ],
-        "slug": "table-de-composition-nutritionnelle-des-aliments-ciqual",
-        "id": "table-de-composition-nutritionnelle-des-aliments-ciqual"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 50,
-                "slug": "zones-de-revitalisation-rurale-zrr",
-                "id": "5943d13588ee38742a95eb0c"
-            }
-        ],
-        "slug": "quartiers-prioritaires-de-la-politique-de-la-ville-qpv",
-        "id": "quartiers-prioritaires-de-la-politique-de-la-ville-qpv"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 65,
-                "slug": "playlist-radio-nrj-09-2012-10-2012-07-2012-08-2012",
-                "id": "539a6d53a3a7293bc272838d"
-            }
-        ],
-        "slug": "temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio",
-        "id": "temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 1031,
-                "slug": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne",
-                "id": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne"
-            },
-            {
-                "score": 916,
-                "slug": "chiffres-cles-concernant-lepidemie-de-covid19-en-france",
-                "id": "chiffres-cles-concernant-lepidemie-de-covid19-en-france"
-            }
-        ],
-        "slug": "cas-confirmes-dinfection-au-covid-19-par-region",
-        "id": "cas-confirmes-dinfection-au-covid-19-par-region"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 94,
-                "slug": "elections-municipales-2020-candidatures-au-1er-tour",
-                "id": "elections-municipales-2020-candidatures-au-1er-tour"
-            }
-        ],
-        "slug": "resultats-des-elections-par-commune",
-        "id": "58fecad3a3a7296bcb3ccf14"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 1133,
-                "slug": "agriculture-biologique-2008-2011-nombre-d-operateurs-engages-en-agriculture-biologique-30378896",
-                "id": "53698e90a3a729239d2034d3"
-            }
-        ],
-        "slug": "agriculture-biologique-2008-2011-productions-animales-bio-tetes-par-departement-30378956",
-        "id": "53698e90a3a729239d2034d4"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 929,
-                "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
-                "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
-            },
-            {
-                "score": 916,
-                "slug": "cas-confirmes-dinfection-au-covid-19-par-region",
-                "id": "cas-confirmes-dinfection-au-covid-19-par-region"
-            },
-            {
-                "score": 774,
-                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
-            },
-            {
-                "score": 771,
-                "slug": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne",
-                "id": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne"
-            },
-            {
-                "score": 671,
-                "slug": "covid-19-en-france-direct",
-                "id": "covid-19-en-france-direct"
-            }
-        ],
-        "slug": "chiffres-cles-concernant-lepidemie-de-covid19-en-france",
-        "id": "chiffres-cles-concernant-lepidemie-de-covid19-en-france"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 623,
-                "slug": "58e5924b88ee3802ca255566",
-                "id": "58e5924b88ee3802ca255566"
-            }
-        ],
-        "slug": "cadastre",
-        "id": "59b0020ec751df07d5f13bcf"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 7884,
-                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
-            }
-        ],
-        "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
-        "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
-    },
-    {
-        "recommendations": [
-            {
-                "score": 425,
-                "slug": "associations-reconnues-d-utilite-publique",
-                "id": "53698f1aa3a729239d203653"
-            }
-        ],
-        "slug": "repertoire-national-des-associations",
-        "id": "repertoire-national-des-associations"
     },
     {
         "recommendations": [
@@ -522,55 +300,230 @@
     {
         "recommendations": [
             {
-                "score": 87,
-                "slug": "service-public-fr-annuaire-de-l-administration-base-de-donnees-locales",
-                "id": "53699fe4a3a729239d206227"
+                "score": 167,
+                "slug": "fichier-des-personnes-decedees",
+                "id": "fichier-des-personnes-decedees"
             },
+            {
+                "score": 155,
+                "slug": "population",
+                "id": "53699d0ea3a729239d205b2e"
+            }
+        ],
+        "slug": "fichier-des-personnes-decedees",
+        "id": "fichier-des-personnes-decedees"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 1112,
+                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
+            },
+            {
+                "score": 1043,
+                "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
+            },
+            {
+                "score": 935,
+                "slug": "cas-confirmes-dinfection-au-covid-19-par-region",
+                "id": "cas-confirmes-dinfection-au-covid-19-par-region"
+            },
+            {
+                "score": 878,
+                "slug": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne",
+                "id": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne"
+            },
+            {
+                "score": 671,
+                "slug": "covid-19-en-france-direct",
+                "id": "covid-19-en-france-direct"
+            }
+        ],
+        "slug": "chiffres-cles-concernant-lepidemie-de-covid19-en-france",
+        "id": "chiffres-cles-concernant-lepidemie-de-covid19-en-france"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 133,
+                "slug": "icpe-installations-classees-pour-la-protection-de-lenvironnement-en-pays-de-la-loire",
+                "id": "57e229fac751df599f79df74"
+            }
+        ],
+        "slug": "base-des-installations-classees-icpe",
+        "id": "base-des-installations-classees-icpe"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 313,
+                "slug": "donnees-de-la-carte-de-vigilance-covid-19",
+                "id": "donnees-de-la-carte-de-vigilance-covid-19"
+            },
+            {
+                "score": 312,
+                "slug": "chiffres-cles-concernant-lepidemie-de-covid19-en-france",
+                "id": "chiffres-cles-concernant-lepidemie-de-covid19-en-france"
+            },
+            {
+                "score": 300,
+                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
+            },
+            {
+                "score": 254,
+                "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
+            },
+            {
+                "score": 253,
+                "slug": "covid-19-en-france-direct",
+                "id": "covid-19-en-france-direct"
+            }
+        ],
+        "slug": "donnees-cartographiques-concernant-lepidemie-de-covid-19",
+        "id": "donnees-cartographiques-concernant-lepidemie-de-covid-19"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 599,
+                "slug": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
+                "id": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19"
+            },
+            {
+                "score": 591,
+                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
+            }
+        ],
+        "slug": "taux-dincidence-de-lepidemie-de-covid-19",
+        "id": "taux-dincidence-de-lepidemie-de-covid-19"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 1061,
+                "slug": "cas-confirmes-dinfection-au-covid-19-par-region",
+                "id": "cas-confirmes-dinfection-au-covid-19-par-region"
+            },
+            {
+                "score": 878,
+                "slug": "chiffres-cles-concernant-lepidemie-de-covid19-en-france",
+                "id": "chiffres-cles-concernant-lepidemie-de-covid19-en-france"
+            },
+            {
+                "score": 684,
+                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
+            },
+            {
+                "score": 636,
+                "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
+            }
+        ],
+        "slug": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne",
+        "id": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 149,
+                "slug": "open-food-facts-produits-alimentaires-ingredients-nutrition-labels",
+                "id": "open-food-facts-produits-alimentaires-ingredients-nutrition-labels"
+            }
+        ],
+        "slug": "table-de-composition-nutritionnelle-des-aliments-ciqual",
+        "id": "table-de-composition-nutritionnelle-des-aliments-ciqual"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 33,
+                "slug": "bd-ortho-5-m-orthophotographie-de-la-france-par-departement",
+                "id": "53698f82a3a729239d20377a"
+            },
+            {
+                "score": 32,
+                "slug": "cartes-anciennes-dematerialisees",
+                "id": "536c3e38a3a72933d8d1b393"
+            },
+            {
+                "score": 32,
+                "slug": "metadonnee-des-photos-aeriennes-anciennes-de-lign",
+                "id": "56da0bd9c751df556a1ffccd"
+            }
+        ],
+        "slug": "prises-de-vue-aeriennes-dematerialisees-de-lign",
+        "id": "53699dc4a3a729239d205cf7"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 2773,
+                "slug": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
+                "id": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19"
+            }
+        ],
+        "slug": "donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville",
+        "id": "donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville"
+    },
+    {
+        "recommendations": [
             {
                 "score": 81,
-                "slug": "finess-extraction-des-entites-juridiques",
-                "id": "5369956ba3a729239d2046fc"
+                "slug": "zones-de-revitalisation-rurale-zrr",
+                "id": "5943d13588ee38742a95eb0c"
             },
             {
-                "score": 73,
-                "slug": "finess-extraction-des-autorisations-dactivites-de-soins",
-                "id": "5369956aa3a729239d2046f7"
-            },
-            {
-                "score": 70,
-                "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
-                "id": "5862206588ee38254d3f4e5e"
+                "score": 71,
+                "slug": "zones-urbaines-sensibles-zus",
+                "id": "zones-urbaines-sensibles-zus"
             }
         ],
-        "slug": "finess-extraction-du-fichier-des-etablissements",
-        "id": "53699569a3a729239d2046eb"
+        "slug": "quartiers-prioritaires-de-la-politique-de-la-ville-qpv",
+        "id": "quartiers-prioritaires-de-la-politique-de-la-ville-qpv"
     },
     {
         "recommendations": [
             {
-                "score": 811,
-                "slug": "demandes-de-valeurs-foncieres",
-                "id": "demandes-de-valeurs-foncieres"
+                "score": 1061,
+                "slug": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne",
+                "id": "coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne"
+            },
+            {
+                "score": 935,
+                "slug": "chiffres-cles-concernant-lepidemie-de-covid19-en-france",
+                "id": "chiffres-cles-concernant-lepidemie-de-covid19-en-france"
             }
         ],
-        "slug": "5c4ae55a634f4117716d5656",
-        "id": "5c4ae55a634f4117716d5656"
+        "slug": "cas-confirmes-dinfection-au-covid-19-par-region",
+        "id": "cas-confirmes-dinfection-au-covid-19-par-region"
     },
     {
         "recommendations": [
             {
-                "score": 38,
-                "slug": "don-du-sang-lieux-et-horaires-des-collectes",
-                "id": "don-du-sang-lieux-et-horaires-des-collectes"
-            },
-            {
-                "score": 31,
-                "slug": "lieux-et-horaires-des-collectes-de-sang",
-                "id": "lieux-et-horaires-des-collectes-de-sang"
+                "score": 95,
+                "slug": "elections-municipales-2020-candidatures-au-1er-tour",
+                "id": "elections-municipales-2020-candidatures-au-1er-tour"
             }
         ],
-        "slug": "dates-et-lieux-des-collectes-de-don-du-sang",
-        "id": "dates-et-lieux-des-collectes-de-don-du-sang"
+        "slug": "resultats-des-elections-par-commune",
+        "id": "58fecad3a3a7296bcb3ccf14"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 1288,
+                "slug": "agriculture-biologique-2008-2011-nombre-d-operateurs-engages-en-agriculture-biologique-30378896",
+                "id": "53698e90a3a729239d2034d3"
+            }
+        ],
+        "slug": "agriculture-biologique-2008-2011-productions-animales-bio-tetes-par-departement-30378956",
+        "id": "53698e90a3a729239d2034d4"
     },
     {
         "recommendations": [
@@ -582,5 +535,119 @@
         ],
         "slug": "elections-municipales-2020-candidatures-au-1er-tour",
         "id": "elections-municipales-2020-candidatures-au-1er-tour"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 961,
+                "slug": "58e5924b88ee3802ca255566",
+                "id": "58e5924b88ee3802ca255566"
+            }
+        ],
+        "slug": "cadastre",
+        "id": "59b0020ec751df07d5f13bcf"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 2773,
+                "slug": "donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville",
+                "id": "donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville"
+            }
+        ],
+        "slug": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
+        "id": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 8,
+                "slug": "zone-bleue",
+                "id": "zone-bleue"
+            }
+        ],
+        "slug": "stationnement-place-en-zone-bleue",
+        "id": "stationnement-place-en-zone-bleue"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 783,
+                "slug": "associations-reconnues-d-utilite-publique",
+                "id": "53698f1aa3a729239d203653"
+            }
+        ],
+        "slug": "repertoire-national-des-associations",
+        "id": "repertoire-national-des-associations"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 3066,
+                "slug": "donnees-de-la-carte-de-vigilance-covid-19",
+                "id": "donnees-de-la-carte-de-vigilance-covid-19"
+            }
+        ],
+        "slug": "indicateurs-de-suivi-de-lepidemie-de-covid-19",
+        "id": "indicateurs-de-suivi-de-lepidemie-de-covid-19"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 1495,
+                "slug": "demandes-de-valeurs-foncieres",
+                "id": "demandes-de-valeurs-foncieres"
+            }
+        ],
+        "slug": "5c4ae55a634f4117716d5656",
+        "id": "5c4ae55a634f4117716d5656"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 55,
+                "slug": "don-du-sang-lieux-et-horaires-des-collectes",
+                "id": "don-du-sang-lieux-et-horaires-des-collectes"
+            },
+            {
+                "score": 43,
+                "slug": "lieux-et-horaires-des-collectes-de-sang",
+                "id": "lieux-et-horaires-des-collectes-de-sang"
+            }
+        ],
+        "slug": "dates-et-lieux-des-collectes-de-don-du-sang",
+        "id": "dates-et-lieux-des-collectes-de-don-du-sang"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 138,
+                "slug": "base-d-adresses-nationale-ouverte-bano",
+                "id": "538071a9a3a7297e4d35d6ce"
+            },
+            {
+                "score": 136,
+                "slug": "base-officielle-des-codes-postaux",
+                "id": "545b55e1c751df52de9b6045"
+            },
+            {
+                "score": 121,
+                "slug": "plan-cadastral-informatise",
+                "id": "plan-cadastral-informatise"
+            }
+        ],
+        "slug": "base-adresse-nationale",
+        "id": "base-adresse-nationale"
+    },
+    {
+        "recommendations": [
+            {
+                "score": 10220,
+                "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
+                "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19"
+            }
+        ],
+        "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
+        "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19"
     }
 ]
