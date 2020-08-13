@@ -19,7 +19,7 @@ def build_graph():
         for edges in covisits:
             for e in edges:
                 if g.has_edge(e[0], e[1]):
-                    g[e[1]][e[0]]['covisits'] += 1
+                    g[e[0]][e[1]]['covisits'] += 1
                 else:
                     g.add_edge(e[0], e[1], covisits=1)
 
