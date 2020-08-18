@@ -52,3 +52,18 @@ jobs:
         git add prod
         git commit -am "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
         git push origin master
+
+    - name: Move JSON file to build folder
+      run: |
+        mkdir build
+        cp prod/all.json build/recommendations.json
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/master'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: build
+        user_name: 'actions-user'
+        user_email: 'actions@github.com'
+        force_orphan: true
