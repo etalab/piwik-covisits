@@ -1,0 +1,54 @@
+name: Fetch data and push
+
+on:
+  push:
+  schedule:
+    - cron:  '40 2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: '3.7'
+
+    - name: Cache pip
+      uses: actions/cache@v1
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          ${{ runner.os }}-
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run fetch
+      run: |
+        python fetch.py
+
+    - name: Run aggregate
+      run: |
+        python aggregate.py
+
+    - name: Run compute
+      run: |
+        python compute.py
+
+    - name: Run generate
+      run: |
+        python generate.py
+
+    - name: Push generated data
+      if: github.ref == 'refs/heads/master'
+      run: |
+        git config user.email "actions@github.com"
+        git config user.name "actions-user"
+        git add prod
+        git commit -am "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+        git push origin master
