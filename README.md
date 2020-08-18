@@ -1,3 +1,15 @@
+# Recommendations data.gouv.fr à partir des visites Matomo
+
+Ce dépôt permet de générer des recommendations sur data.gouv.fr à l'aide du plugin [udata-recommendations](https://github.com/opendatateam/udata-recommendations). Les recommendations sont tirées des visites de data.gouv.fr [enregistrées par Matomo](https://stats.data.gouv.fr/index.php?module=CoreHome&action=index&idSite=109).
+
+🤖 Les recommendations sont calculées automatiquement tous les jours, par rapport au visite des 30 derniers jours.
+
+## URL
+
+Les recommendations de ce dépôt sont disponibles en JSON à l'adresse https://etalab.github.io/piwik-covisits/recommendations.json
+
+## Usage
+
 ```
 $ python fetch.py
 $ python aggregate.py
