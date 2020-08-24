@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      KEEP_NB_DAYS_LOGS: 45
     steps:
     - uses: actions/checkout@v2
 
@@ -44,16 +46,21 @@ jobs:
       run: |
         python generate.py
 
+    - name: Delete old logs
+      run: |
+        find logs/ -type f -mtime +$KEEP_NB_DAYS_LOGS -exec rm -f {} \;
+
     - name: Push generated data
       if: github.ref == 'refs/heads/master'
       run: |
         git config user.email "actions@github.com"
         git config user.name "actions-user"
-        git add prod
+        git add logs prod
         git commit -am "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
         git push origin master
 
     - name: Move JSON file to build folder
+      if: github.ref == 'refs/heads/master'
       run: |
         mkdir build
         cp prod/all.json build/recommendations.json
