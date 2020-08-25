@@ -46,7 +46,8 @@ def read_day(day_string):
 
 def write_last_n_month(n):
     a_month_ago = pd.datetime.today() + pd.DateOffset(months=-n)
-    date_range = pd.date_range(a_month_ago, pd.datetime.today()).strftime('%Y-%m-%d')
+    yesterday = pd.datetime.today() - pd.DateOffset(days=1)
+    date_range = pd.date_range(a_month_ago, yesterday).strftime('%Y-%m-%d')
     for day in date_range:
         if day +'.json' not in os.listdir('logs/'):
             write_day(day)
