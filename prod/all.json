@@ -159,8 +159,8 @@
                 "slug": "indicateurs-de-suivi-de-lepidemie-de-covid-19",
                 "id": "indicateurs-de-suivi-de-lepidemie-de-covid-19",
                 "covisits": 6696,
-                "score_norm": 1.4415500538213133,
-                "score": 145
+                "score_norm": 1,
+                "score": 100
             }
         ]
     },
@@ -205,8 +205,8 @@
                 "slug": "donnees-de-la-carte-de-vigilance-covid-19",
                 "id": "donnees-de-la-carte-de-vigilance-covid-19",
                 "covisits": 6696,
-                "score_norm": 1.247159620040976,
-                "score": 125
+                "score_norm": 1,
+                "score": 100
             }
         ]
     },
@@ -343,8 +343,8 @@
                 "slug": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
                 "id": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
                 "covisits": 7834,
-                "score_norm": 1.155286830850907,
-                "score": 116
+                "score_norm": 1,
+                "score": 100
             }
         ]
     },
