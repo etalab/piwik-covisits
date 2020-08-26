@@ -3,7 +3,7 @@ name: Fetch data and push
 on:
   push:
   schedule:
-    - cron:  '40 2 * * *'
+    - cron:  '40 2 */3 * *'
 
 jobs:
   build:
@@ -46,16 +46,12 @@ jobs:
       run: |
         python generate.py
 
-    - name: Delete old logs
-      run: |
-        find logs/ -type f -mtime +$KEEP_NB_DAYS_LOGS -exec rm -f {} \;
-
     - name: Push generated data
       if: github.ref == 'refs/heads/master'
       run: |
         git config user.email "actions@github.com"
         git config user.name "actions-user"
-        git add -f logs prod
+        git add prod
         git commit -am "New data at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
         git push origin master
 
