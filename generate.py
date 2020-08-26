@@ -82,8 +82,8 @@ for n in tqdm(list(g.nbunch_iter( [ "https://www.data.gouv.fr/fr/datasets/"+l+"/
                 "slug": label(n2),
                 "id": mapping_slug_id(label(n2)),
                 "covisits": g[n][n2]['covisits'],
-                "score_norm": g[n][n2]['covisits']/g.nodes[n]['links'],
-                "score": math.ceil(g[n][n2]['covisits']/g.nodes[n]['links'] * 100),
+                "score_norm": min(g[n][n2]['covisits']/g.nodes[n]['links'], 1),
+                "score": min(math.ceil(g[n][n2]['covisits']/g.nodes[n]['links'] * 100), 100),
             } for n2 in edges
         ]
     }

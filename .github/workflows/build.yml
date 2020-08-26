@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       KEEP_NB_DAYS_LOGS: 45
+      JSONSCHEMA_URL: https://raw.githubusercontent.com/opendatateam/udata-recommendations/master/udata_recommendations/schema.json
     steps:
     - uses: actions/checkout@v2
 
@@ -45,6 +46,11 @@ jobs:
     - name: Run generate
       run: |
         python generate.py
+
+    - name: Validate generated recommendations
+      run: |
+        wget -O schema.json $JSONSCHEMA_URL
+        jsonschema -i prod/all.json schema.json
 
     - name: Push generated data
       if: github.ref == 'refs/heads/master'
