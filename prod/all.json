@@ -40,9 +40,9 @@
             {
                 "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
-                "covisits": 420,
-                "score_norm": 0.41379310344827586,
-                "score": 42
+                "covisits": 438,
+                "score_norm": 0.4085820895522388,
+                "score": 41
             }
         ]
     },
@@ -53,29 +53,29 @@
             {
                 "slug": "liste-des-maires",
                 "id": "53699924a3a729239d205175",
-                "covisits": 356,
-                "score_norm": 0.286634460547504,
-                "score": 29
+                "covisits": 364,
+                "score_norm": 0.2688330871491876,
+                "score": 27
             },
             {
                 "slug": "municipales-2020-resultats-2nd-tour",
                 "id": "municipales-2020-resultats-2nd-tour",
-                "covisits": 266,
-                "score_norm": 0.214170692431562,
-                "score": 22
+                "covisits": 280,
+                "score_norm": 0.206794682422452,
+                "score": 21
             },
             {
                 "slug": "les-elus-municipaux",
                 "id": "53699830a3a729239d204eb5",
-                "covisits": 240,
-                "score_norm": 0.1932367149758454,
+                "covisits": 268,
+                "score_norm": 0.19793205317577547,
                 "score": 20
             },
             {
                 "slug": "elections-municipales-2020-liste-des-candidats-elus-au-t1-et-liste-des-communes-entierement-pourvues",
                 "id": "elections-municipales-2020-liste-des-candidats-elus-au-t1-et-liste-des-communes-entierement-pourvues",
-                "covisits": 194,
-                "score_norm": 0.15619967793880837,
+                "covisits": 212,
+                "score_norm": 0.15657311669128507,
                 "score": 16
             }
         ]
@@ -87,16 +87,16 @@
             {
                 "slug": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
                 "id": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
-                "covisits": 6414,
-                "score_norm": 0.48920753565708186,
+                "covisits": 6858,
+                "score_norm": 0.4827197860209756,
                 "score": 49
             },
             {
                 "slug": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19",
-                "covisits": 4808,
-                "score_norm": 0.366714972160781,
-                "score": 37
+                "covisits": 5062,
+                "score_norm": 0.35630323080171744,
+                "score": 36
             }
         ]
     },
@@ -107,16 +107,9 @@
             {
                 "slug": "5c4ae55a634f4117716d5656",
                 "id": "5c4ae55a634f4117716d5656",
-                "covisits": 1490,
-                "score_norm": 0.4008609093354856,
-                "score": 41
-            },
-            {
-                "slug": "demandes-de-valeurs-foncieres-geolocalisees",
-                "id": "demandes-de-valeurs-foncieres-geolocalisees",
-                "covisits": 942,
-                "score_norm": 0.25343018563357544,
-                "score": 26
+                "covisits": 1556,
+                "score_norm": 0.4119671697114112,
+                "score": 42
             }
         ]
     },
@@ -127,36 +120,36 @@
             {
                 "slug": "donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19",
                 "id": "donnees-relatives-au-fonds-de-solidarite-mis-en-place-dans-le-cadre-de-lepidemie-de-covid-19",
-                "covisits": 172,
-                "score_norm": 0.08986415882967608,
-                "score": 9
+                "covisits": 184,
+                "score_norm": 0.09108910891089109,
+                "score": 10
+            },
+            {
+                "slug": "repertoire-national-des-associations",
+                "id": "repertoire-national-des-associations",
+                "covisits": 148,
+                "score_norm": 0.07326732673267326,
+                "score": 8
             },
             {
                 "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
                 "id": "5862206588ee38254d3f4e5e",
-                "covisits": 128,
-                "score_norm": 0.06687565308254964,
+                "covisits": 142,
+                "score_norm": 0.0702970297029703,
+                "score": 8
+            },
+            {
+                "slug": "5b7ffc618b4c4169d30727e0",
+                "id": "5b7ffc618b4c4169d30727e0",
+                "covisits": 140,
+                "score_norm": 0.06930693069306931,
                 "score": 7
             },
             {
                 "slug": "base-sirene-v3",
                 "id": "base-sirene-v3",
-                "covisits": 128,
-                "score_norm": 0.06687565308254964,
-                "score": 7
-            },
-            {
-                "slug": "repertoire-national-des-associations",
-                "id": "repertoire-national-des-associations",
-                "covisits": 126,
-                "score_norm": 0.06583072100313479,
-                "score": 7
-            },
-            {
-                "slug": "5b7ffc618b4c4169d30727e0",
-                "id": "5b7ffc618b4c4169d30727e0",
-                "covisits": 118,
-                "score_norm": 0.06165099268547544,
+                "covisits": 136,
+                "score_norm": 0.06732673267326733,
                 "score": 7
             }
         ]
@@ -168,9 +161,9 @@
             {
                 "slug": "repertoire-national-des-certifications-professionnelles-et-repertoire-specifique",
                 "id": "repertoire-national-des-certifications-professionnelles-et-repertoire-specifique",
-                "covisits": 312,
-                "score_norm": 0.6827133479212254,
-                "score": 69
+                "covisits": 370,
+                "score_norm": 0.6981132075471698,
+                "score": 70
             }
         ]
     },
@@ -181,9 +174,9 @@
             {
                 "slug": "base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret",
                 "id": "5862206588ee38254d3f4e5e",
-                "covisits": 24,
-                "score_norm": 0.11594202898550725,
-                "score": 12
+                "covisits": 20,
+                "score_norm": 0.08849557522123894,
+                "score": 9
             }
         ]
     },
@@ -194,9 +187,9 @@
             {
                 "slug": "statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel",
                 "id": "statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel",
-                "covisits": 266,
-                "score_norm": 0.5341365461847389,
-                "score": 54
+                "covisits": 306,
+                "score_norm": 0.5594149908592322,
+                "score": 56
             }
         ]
     },
@@ -207,16 +200,16 @@
             {
                 "slug": "58e53811c751df03df38f42d",
                 "id": "58e53811c751df03df38f42d",
-                "covisits": 1162,
-                "score_norm": 0.5215439856373429,
-                "score": 53
+                "covisits": 1384,
+                "score_norm": 0.5481188118811882,
+                "score": 55
             },
             {
                 "slug": "associations-reconnues-d-utilite-publique",
                 "id": "53698f1aa3a729239d203653",
-                "covisits": 796,
-                "score_norm": 0.35727109515260325,
-                "score": 36
+                "covisits": 914,
+                "score_norm": 0.36198019801980197,
+                "score": 37
             }
         ]
     },
@@ -227,7 +220,7 @@
             {
                 "slug": "indicateurs-de-suivi-de-lepidemie-de-covid-19",
                 "id": "indicateurs-de-suivi-de-lepidemie-de-covid-19",
-                "covisits": 5384,
+                "covisits": 5222,
                 "score_norm": 1,
                 "score": 100
             }
@@ -240,9 +233,9 @@
             {
                 "slug": "accidents-de-la-route",
                 "id": "53698e4ba3a729239d203415",
-                "covisits": 300,
-                "score_norm": 0.25728987993138935,
-                "score": 26
+                "covisits": 324,
+                "score_norm": 0.21357943309162822,
+                "score": 22
             }
         ]
     },
@@ -253,9 +246,9 @@
             {
                 "slug": "jours-feries-en-france",
                 "id": "jours-feries-en-france",
-                "covisits": 710,
-                "score_norm": 0.9712722298221614,
-                "score": 98
+                "covisits": 734,
+                "score_norm": 0.924433249370277,
+                "score": 93
             }
         ]
     },
@@ -267,43 +260,50 @@
                 "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
                 "covisits": 2,
-                "score_norm": 0.2857142857142857,
-                "score": 29
+                "score_norm": 0.25,
+                "score": 25
             },
             {
                 "slug": "donnees-denquete-relatives-a-levolution-des-comportements-et-de-la-sante-mentale-pendant-lepidemie-de-covid-19-coviprev",
                 "id": "donnees-denquete-relatives-a-levolution-des-comportements-et-de-la-sante-mentale-pendant-lepidemie-de-covid-19-coviprev",
                 "covisits": 2,
-                "score_norm": 0.2857142857142857,
-                "score": 29
+                "score_norm": 0.25,
+                "score": 25
             },
             {
                 "slug": "demandes-de-valeurs-foncieres",
                 "id": "demandes-de-valeurs-foncieres",
                 "covisits": 2,
-                "score_norm": 0.2857142857142857,
-                "score": 29
+                "score_norm": 0.25,
+                "score": 25
             },
             {
                 "slug": "population",
                 "id": "53699d0ea3a729239d205b2e",
                 "covisits": 2,
-                "score_norm": 0.2857142857142857,
-                "score": 29
+                "score_norm": 0.25,
+                "score": 25
             },
             {
                 "slug": "logement",
                 "id": "53699976a3a729239d205267",
                 "covisits": 2,
-                "score_norm": 0.2857142857142857,
-                "score": 29
+                "score_norm": 0.25,
+                "score": 25
             },
             {
                 "slug": "annuaire-des-diagnostiqueurs-immobiliers",
                 "id": "annuaire-des-diagnostiqueurs-immobiliers",
                 "covisits": 2,
-                "score_norm": 0.2857142857142857,
-                "score": 29
+                "score_norm": 0.25,
+                "score": 25
+            },
+            {
+                "slug": "etude-bibliographique-du-marche-des-teleactivites-pour-les-entreprises-et-les-particuliers-30382708",
+                "id": "53699508a3a729239d2045c1",
+                "covisits": 2,
+                "score_norm": 0.25,
+                "score": 25
             }
         ]
     },
@@ -314,9 +314,9 @@
             {
                 "slug": "donnees-de-la-carte-de-vigilance-covid-19",
                 "id": "donnees-de-la-carte-de-vigilance-covid-19",
-                "covisits": 5384,
-                "score_norm": 0.9830199014058791,
-                "score": 99
+                "covisits": 5222,
+                "score_norm": 0.9229409685401202,
+                "score": 93
             }
         ]
     },
@@ -327,9 +327,9 @@
             {
                 "slug": "population-mariages-deces-naissances-1",
                 "id": "58048f9ec751df1c2079df72",
-                "covisits": 1430,
-                "score_norm": 0.6535648994515539,
-                "score": 66
+                "covisits": 1556,
+                "score_norm": 0.6612834679133022,
+                "score": 67
             }
         ]
     },
@@ -340,9 +340,9 @@
             {
                 "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "covisits": 882,
-                "score_norm": 0.49467190128996075,
-                "score": 50
+                "covisits": 966,
+                "score_norm": 0.48787878787878786,
+                "score": 49
             }
         ]
     },
@@ -353,16 +353,16 @@
             {
                 "slug": "icpe-installations-classees-pour-la-protection-de-lenvironnement-en-pays-de-la-loire",
                 "id": "57e229fac751df599f79df74",
-                "covisits": 120,
-                "score_norm": 0.375,
-                "score": 38
+                "covisits": 128,
+                "score_norm": 0.34688346883468835,
+                "score": 35
             },
             {
                 "slug": "inventaire-des-sites-pollues",
                 "id": "inventaire-des-sites-pollues",
-                "covisits": 94,
-                "score_norm": 0.29375,
-                "score": 30
+                "covisits": 104,
+                "score_norm": 0.28184281842818426,
+                "score": 29
             }
         ]
     },
@@ -373,9 +373,9 @@
             {
                 "slug": "donnees-de-la-carte-de-vigilance-covid-19",
                 "id": "donnees-de-la-carte-de-vigilance-covid-19",
-                "covisits": 386,
-                "score_norm": 0.5718518518518518,
-                "score": 58
+                "covisits": 422,
+                "score_norm": 0.5885634588563459,
+                "score": 59
             }
         ]
     },
@@ -386,15 +386,15 @@
             {
                 "slug": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
                 "id": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
-                "covisits": 2320,
-                "score_norm": 0.49881745861105137,
-                "score": 50
+                "covisits": 2552,
+                "score_norm": 0.5072550188829259,
+                "score": 51
             },
             {
                 "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "covisits": 1952,
-                "score_norm": 0.419694689314126,
+                "covisits": 2072,
+                "score_norm": 0.4118465513814351,
                 "score": 42
             }
         ]
@@ -406,8 +406,8 @@
             {
                 "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "covisits": 794,
-                "score_norm": 0.45345516847515704,
+                "covisits": 870,
+                "score_norm": 0.4566929133858268,
                 "score": 46
             }
         ]
@@ -419,9 +419,9 @@
             {
                 "slug": "open-food-facts-produits-alimentaires-ingredients-nutrition-labels",
                 "id": "open-food-facts-produits-alimentaires-ingredients-nutrition-labels",
-                "covisits": 120,
-                "score_norm": 0.3053435114503817,
-                "score": 31
+                "covisits": 144,
+                "score_norm": 0.288,
+                "score": 29
             }
         ]
     },
@@ -432,9 +432,9 @@
             {
                 "slug": "cartes-anciennes-dematerialisees",
                 "id": "536c3e38a3a72933d8d1b393",
-                "covisits": 202,
-                "score_norm": 0.6352201257861635,
-                "score": 64
+                "covisits": 218,
+                "score_norm": 0.6488095238095238,
+                "score": 65
             }
         ]
     },
@@ -445,7 +445,7 @@
             {
                 "slug": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
                 "id": "donnees-relatives-aux-resultats-des-tests-virologiques-covid-19",
-                "covisits": 12036,
+                "covisits": 12352,
                 "score_norm": 1,
                 "score": 100
             }
@@ -458,9 +458,16 @@
             {
                 "slug": "zones-urbaines-sensibles-zus",
                 "id": "zones-urbaines-sensibles-zus",
-                "covisits": 124,
-                "score_norm": 0.3563218390804598,
-                "score": 36
+                "covisits": 130,
+                "score_norm": 0.3359173126614987,
+                "score": 34
+            },
+            {
+                "slug": "zones-de-revitalisation-rurale-zrr",
+                "id": "5943d13588ee38742a95eb0c",
+                "covisits": 88,
+                "score_norm": 0.22739018087855298,
+                "score": 23
             }
         ]
     },
@@ -471,9 +478,9 @@
             {
                 "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "covisits": 86,
-                "score_norm": 0.16195856873822975,
-                "score": 17
+                "covisits": 98,
+                "score_norm": 0.1701388888888889,
+                "score": 18
             }
         ]
     },
@@ -485,8 +492,15 @@
                 "slug": "municipales-2020-resultats-2nd-tour",
                 "id": "municipales-2020-resultats-2nd-tour",
                 "covisits": 8,
-                "score_norm": 0.24242424242424243,
-                "score": 25
+                "score_norm": 0.17777777777777778,
+                "score": 18
+            },
+            {
+                "slug": "elections-municipales-2020-resultats-1er-tour",
+                "id": "elections-municipales-2020-resultats-1er-tour",
+                "covisits": 6,
+                "score_norm": 0.13333333333333333,
+                "score": 14
             }
         ]
     },
@@ -497,9 +511,9 @@
             {
                 "slug": "agriculture-biologique-2008-2011-nombre-d-operateurs-engages-en-agriculture-biologique-30378896",
                 "id": "53698e90a3a729239d2034d3",
-                "covisits": 2856,
-                "score_norm": 0.94789246598075,
-                "score": 95
+                "covisits": 3410,
+                "score_norm": 0.9562535053280987,
+                "score": 96
             }
         ]
     },
@@ -510,9 +524,9 @@
             {
                 "slug": "elections-municipales-2020-liste-des-candidats-elus-au-t1-et-liste-des-communes-entierement-pourvues",
                 "id": "elections-municipales-2020-liste-des-candidats-elus-au-t1-et-liste-des-communes-entierement-pourvues",
-                "covisits": 42,
-                "score_norm": 0.3387096774193548,
-                "score": 34
+                "covisits": 50,
+                "score_norm": 0.37037037037037035,
+                "score": 38
             }
         ]
     },
@@ -523,15 +537,15 @@
             {
                 "slug": "plan-cadastral-informatise",
                 "id": "plan-cadastral-informatise",
-                "covisits": 678,
-                "score_norm": 0.3281703775411423,
-                "score": 33
+                "covisits": 750,
+                "score_norm": 0.33215234720992026,
+                "score": 34
             },
             {
                 "slug": "58e5924b88ee3802ca255566",
                 "id": "58e5924b88ee3802ca255566",
-                "covisits": 596,
-                "score_norm": 0.2884801548886738,
+                "covisits": 650,
+                "score_norm": 0.28786536758193093,
                 "score": 29
             }
         ]
@@ -543,9 +557,9 @@
             {
                 "slug": "donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville",
                 "id": "donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville",
-                "covisits": 12036,
-                "score_norm": 0.8690880207957253,
-                "score": 87
+                "covisits": 12352,
+                "score_norm": 0.8525676421866372,
+                "score": 86
             }
         ]
     },
@@ -556,9 +570,9 @@
             {
                 "slug": "zone-bleue",
                 "id": "zone-bleue",
-                "covisits": 14,
-                "score_norm": 0.4375,
-                "score": 44
+                "covisits": 16,
+                "score_norm": 0.4444444444444444,
+                "score": 45
             }
         ]
     },
@@ -569,15 +583,15 @@
             {
                 "slug": "communes-de-france-base-des-codes-postaux",
                 "id": "communes-de-france-base-des-codes-postaux",
-                "covisits": 1142,
-                "score_norm": 0.34806461444681497,
-                "score": 35
+                "covisits": 1290,
+                "score_norm": 0.3566491567597456,
+                "score": 36
             },
             {
                 "slug": "correspondance-code-insee-code-postal",
                 "id": "59591ca4a3a7291dcf9c8150",
-                "covisits": 858,
-                "score_norm": 0.26150563852484,
+                "covisits": 962,
+                "score_norm": 0.26596627038982584,
                 "score": 27
             }
         ]
@@ -589,9 +603,9 @@
             {
                 "slug": "demandes-de-valeurs-foncieres",
                 "id": "demandes-de-valeurs-foncieres",
-                "covisits": 1490,
-                "score_norm": 0.7813319349764027,
-                "score": 79
+                "covisits": 1556,
+                "score_norm": 0.7672583826429981,
+                "score": 77
             }
         ]
     },
@@ -602,9 +616,9 @@
             {
                 "slug": "don-du-sang-lieux-et-horaires-des-collectes",
                 "id": "don-du-sang-lieux-et-horaires-des-collectes",
-                "covisits": 114,
-                "score_norm": 0.4596774193548387,
-                "score": 46
+                "covisits": 192,
+                "score_norm": 0.3983402489626556,
+                "score": 40
             }
         ]
     },
@@ -615,9 +629,9 @@
             {
                 "slug": "base-d-adresses-nationale-ouverte-bano",
                 "id": "538071a9a3a7297e4d35d6ce",
-                "covisits": 358,
-                "score_norm": 0.29833333333333334,
-                "score": 30
+                "covisits": 390,
+                "score_norm": 0.28824833702882485,
+                "score": 29
             }
         ]
     },
@@ -628,9 +642,9 @@
             {
                 "slug": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
                 "id": "donnees-hospitalieres-relatives-a-lepidemie-de-covid-19",
-                "covisits": 4808,
-                "score_norm": 0.8791369537392576,
-                "score": 88
+                "covisits": 5062,
+                "score_norm": 0.86544708497179,
+                "score": 87
             }
         ]
     }
