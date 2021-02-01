@@ -33,24 +33,12 @@ jobs:
 
     - name: Run fetch
       run: |
-        python fetch.py
-
-    - name: Run aggregate
-      run: |
-        python aggregate.py
-
-    - name: Run compute
-      run: |
-        python compute.py
-
-    - name: Run generate
-      run: |
-        python generate.py
+        python transitions.py
 
     - name: Validate generated recommendations
       run: |
         wget -O schema.json $JSONSCHEMA_URL
-        jsonschema -i prod/all.json schema.json
+        jsonschema -i prod/recommendations.json schema.json
 
     - name: Push generated data
       if: github.ref == 'refs/heads/master'
@@ -65,7 +53,7 @@ jobs:
       if: github.ref == 'refs/heads/master'
       run: |
         mkdir build
-        cp prod/all.json build/recommendations.json
+        cp prod/recommendations.json build/recommendations.json
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3

@@ -1,0 +1,424 @@
+{
+    "date": "Janv. 2021",
+    "previousPages": [
+      {
+        "label": "data.gouv.fr/fr/organizations/sante-publique-france/",
+        "referrals": 3796
+      },
+      {
+        "label": "data.gouv.fr/fr/",
+        "referrals": 1576
+      },
+      {
+        "label": "data.gouv.fr/fr/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/",
+        "referrals": 930
+      },
+      {
+        "label": "data.gouv.fr/fr/reuses/tableau-de-bord-de-suivi-de-lepidemie-de-coronavirus-en-france/",
+        "referrals": 783
+      },
+      {
+        "label": "data.gouv.fr/fr/pages/donnees-coronavirus",
+        "referrals": 741
+      },
+      {
+        "label": "data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/",
+        "referrals": 512
+      },
+      {
+        "label": "data.gouv.fr/fr/topics/sante-et-social/",
+        "referrals": 313
+      },
+      {
+        "label": "data.gouv.fr/fr/datasets/chiffres-cles-concernant-lepidemie-de-covid19-en-france/",
+        "referrals": 223
+      },
+      {
+        "label": "data.gouv.fr/fr/datasets/taux-dincidence-de-lepidemie-de-covid-19/",
+        "referrals": 220
+      },
+      {
+        "label": "data.gouv.fr/fr/reuses/covid-tracker-suivez-lepidemie-du-covid19-en-france-et-dans-le-monde/",
+        "referrals": 214
+      },
+      {
+        "label": "Others",
+        "referrals": 3579
+      }
+    ],
+    "previousSiteSearches": [
+      {
+        "label": "covid",
+        "referrals": 470
+      },
+      {
+        "label": "vaccin covid",
+        "referrals": 48
+      },
+      {
+        "label": "covid 19",
+        "referrals": 25
+      },
+      {
+        "label": "Covid",
+        "referrals": 21
+      },
+      {
+        "label": "covid-19",
+        "referrals": 16
+      },
+      {
+        "label": "COVID",
+        "referrals": 13
+      },
+      {
+        "label": "covid19",
+        "referrals": 13
+      },
+      {
+        "label": "cas covid",
+        "referrals": 12
+      },
+      {
+        "label": "covid-hospit-incid-reg-2021-01-13-19h20.csv",
+        "referrals": 10
+      },
+      {
+        "label": "données hospitalières",
+        "referrals": 8
+      },
+      {
+        "label": "Others",
+        "referrals": 240
+      }
+    ],
+    "pageMetrics": {
+      "loops": 6423,
+      "pageviews": 59440,
+      "entries": 39243,
+      "exits": 41830
+    },
+    "followingPages": [
+      {
+        "label": "data.gouv.fr/fr/datasets/donnees-relatives-aux-resultats-des-tests-virologiques-covid-19/",
+        "referrals": 1695
+      },
+      {
+        "label": "data.gouv.fr/fr/organizations/sante-publique-france/",
+        "referrals": 1616
+      },
+      {
+        "label": "data.gouv.fr/fr/",
+        "referrals": 1005
+      },
+      {
+        "label": "data.gouv.fr/fr/datasets/donnees-des-urgences-hospitalieres-et-de-sos-medecins-relatives-a-lepidemie-de-covid-19/",
+        "referrals": 692
+      },
+      {
+        "label": "data.gouv.fr/fr/pages/donnees-coronavirus",
+        "referrals": 327
+      },
+      {
+        "label": "data.gouv.fr/fr/datasets/",
+        "referrals": 310
+      },
+      {
+        "label": "data.gouv.fr/fr/datasets/donnees-relatives-aux-tests-de-depistage-de-covid-19-realises-en-laboratoire-de-ville/",
+        "referrals": 298
+      },
+      {
+        "label": "data.gouv.fr/fr/reuses/tableau-de-bord-de-suivi-de-lepidemie-de-coronavirus-en-france/",
+        "referrals": 279
+      },
+      {
+        "label": "data.gouv.fr/fr/dashboard/",
+        "referrals": 277
+      },
+      {
+        "label": "data.gouv.fr/fr/search/?badge=covid-19",
+        "referrals": 261
+      },
+      {
+        "label": "Others",
+        "referrals": 3746
+      }
+    ],
+    "followingSiteSearches": [
+      {
+        "label": "covid",
+        "referrals": 140
+      },
+      {
+        "label": "vaccin covid",
+        "referrals": 63
+      },
+      {
+        "label": "covid 19",
+        "referrals": 11
+      },
+      {
+        "label": "covid-hospit-incid-reg-2021-01-13-19h20.csv",
+        "referrals": 10
+      },
+      {
+        "label": "covid-19",
+        "referrals": 8
+      },
+      {
+        "label": "Abonnés aux réseaux sociaux d'Issy-les-Moulineaux",
+        "referrals": 7
+      },
+      {
+        "label": "Covid",
+        "referrals": 7
+      },
+      {
+        "label": "urgences covid",
+        "referrals": 7
+      },
+      {
+        "label": "vaccin",
+        "referrals": 7
+      },
+      {
+        "label": "COVID",
+        "referrals": 6
+      },
+      {
+        "label": "Others",
+        "referrals": 415
+      }
+    ],
+    "outlinks": [
+      {
+        "label": "https://www.gouvernement.fr/info-coronavirus/carte-et-donnees",
+        "referrals": 39
+      },
+      {
+        "label": "https://doc.data.gouv.fr/",
+        "referrals": 23
+      },
+      {
+        "label": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+        "referrals": 11
+      },
+      {
+        "label": "http://openstreetmap.org/copyright",
+        "referrals": 6
+      },
+      {
+        "label": "https://vdugrain.carto.com/viz/1b734ce4-3a24-4e79-b0f2-d4f43512e796/embed_map",
+        "referrals": 6
+      },
+      {
+        "label": "https://github.com/thomasdubdub/covid-france",
+        "referrals": 3
+      },
+      {
+        "label": "https://www.cascoronavirus.fr/vaccins/france",
+        "referrals": 3
+      },
+      {
+        "label": "http://leafletjs.com/",
+        "referrals": 2
+      },
+      {
+        "label": "https://cartodb.com/attributions",
+        "referrals": 2
+      },
+      {
+        "label": "https://coronavirus.politologue.com/",
+        "referrals": 2
+      },
+      {
+        "label": "Others",
+        "referrals": 24
+      }
+    ],
+    "downloads": [
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/63352e38-d353-4b54-bfd1-f1b3ee1cabd7",
+        "referrals": 8015
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/6fadff46-9efd-4c53-942a-54aca783c30c",
+        "referrals": 6026
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/a1466f7f-4ece-4158-a373-f5d4db167eb0",
+        "referrals": 2841
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/08c18e08-6780-452d-9b8c-ae244ad529b3",
+        "referrals": 2422
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/41b9bd2a-b5b6-4271-8878-e45a8902ef00",
+        "referrals": 492
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/929dff1b-b07c-4637-9690-fb7219ad3eb8",
+        "referrals": 305
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/09dede72-fd86-4911-83f2-53900d1badaa",
+        "referrals": 235
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/3f0f1885-25f4-4102-bbab-edec5a58e34a",
+        "referrals": 192
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/3405c81f-ad51-4842-aa1b-aefb567eea12",
+        "referrals": 163
+      },
+      {
+        "label": "https://www.data.gouv.fr/fr/datasets/r/4900f53f-750d-4c5a-9df7-2d4ceb018acf",
+        "referrals": 146
+      },
+      {
+        "label": "Others",
+        "referrals": 1010
+      }
+    ],
+    "referrers": [
+      {
+        "label": "Entrées directes",
+        "shortName": "direct",
+        "visits": 12468,
+        "details": [
+
+        ]
+      },
+      {
+        "label": "Depuis des moteurs de recherche",
+        "shortName": "search",
+        "visits": 21657,
+        "details": [
+          {
+            "label": "https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/",
+            "referrals": "41"
+          },
+          {
+            "label": "santé publique france",
+            "referrals": "7"
+          },
+          {
+            "label": "hospitalisation covid",
+            "referrals": "4"
+          },
+          {
+            "label": "nombre de personnes en réanimation",
+            "referrals": "4"
+          },
+          {
+            "label": "courbe hospitalisation covid",
+            "referrals": "4"
+          },
+          {
+            "label": "courbe hospitalisation covid france",
+            "referrals": "3"
+          },
+          {
+            "label": "personne en réanimation france",
+            "referrals": "3"
+          },
+          {
+            "label": "données hospitalières covid",
+            "referrals": "2"
+          },
+          {
+            "label": "mortalité covid, chiffre par tranche d'âge",
+            "referrals": "2"
+          },
+          {
+            "label": "Others",
+            "referrals": "205"
+          }
+        ]
+      },
+      {
+        "label": "Depuis des sites web",
+        "shortName": "website",
+        "visits": 4929,
+        "details": [
+          {
+            "label": "https://www.francetvinfo.fr/",
+            "referrals": "688"
+          },
+          {
+            "label": "https://www.lemonde.fr/les-decodeurs/article/2020/11/12/covid-19-quelle-est-la-situation-de-l-epidemie-dans-les-101-departements-francais_6059504_4355770.html",
+            "referrals": "683"
+          },
+          {
+            "label": "https://mobile.francetvinfo.fr",
+            "referrals": "496"
+          },
+          {
+            "label": "https://mobile.francetvinfo.fr/",
+            "referrals": "437"
+          },
+          {
+            "label": "https://www.francetvinfo.fr/sante/maladie/coronavirus/infographies-covid-19-morts-hospitalisations-age-malades-l-evolution-de-l-epidemie-en-france-et-dans-le-monde-en-cartes-et-graphiques.html",
+            "referrals": "369"
+          },
+          {
+            "label": "https://www.ledauphine.com/",
+            "referrals": "357"
+          },
+          {
+            "label": "https://mobile.francetvinfo.fr/sante/maladie/coronavirus/infographies-covid-19-morts-hospitalisations-age-malades-l-evolution-de-l-epidemie-en-france-et-dans-le-monde-en-cartes-et-graphiques.html",
+            "referrals": "293"
+          },
+          {
+            "label": "https://www.ledauphine.com/sante/2020/10/07/les-cinq-chiffres-cles-de-la-covid-19-dans-votre-departement-(mise-a-jour-quotidienne)",
+            "referrals": "203"
+          },
+          {
+            "label": "https://www.lemonde.fr",
+            "referrals": "189"
+          },
+          {
+            "label": "https://www.francetvinfo.fr",
+            "referrals": "140"
+          },
+          {
+            "label": "Others",
+            "referrals": "1074"
+          }
+        ]
+      },
+      {
+        "label": "De Réseaux Sociaux",
+        "shortName": "social",
+        "visits": 189,
+        "details": [
+          {
+            "label": "Facebook",
+            "referrals": "146"
+          },
+          {
+            "label": "Twitter",
+            "referrals": "33"
+          },
+          {
+            "label": "LinkedIn",
+            "referrals": "5"
+          },
+          {
+            "label": "GitHub",
+            "referrals": "3"
+          },
+          {
+            "label": "YouTube",
+            "referrals": "1"
+          },
+          {
+            "label": "Telegram",
+            "referrals": "1"
+          }
+        ]
+      }
+    ]
+  }
